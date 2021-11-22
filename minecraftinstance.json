@@ -41,14 +41,15 @@
   "modpackOverrides": null,
   "isMemoryOverride": false,
   "allocatedMemory": 6048,
+  "profileImagePath": null,
   "guid": "da0f0474-3eaf-4318-9623-5d1da5cf91c7",
   "gameTypeID": 432,
-  "installPath": "/Users/admin/Documents/curseforge/minecraft/Instances/wing2/",
+  "installPath": "C:\\Users\\admin\\curseforge\\minecraft\\Instances\\wing\\",
   "name": "wing2",
   "cachedScans": [],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2021-11-22T11:39:07.771151Z",
-  "lastRefreshAttempt": "2021-11-22T12:39:07.948417+01:00",
+  "lastPreviousMatchUpdate": "2021-11-22T21:11:57.1763741Z",
+  "lastRefreshAttempt": "2021-11-22T22:11:57.4057648+01:00",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.16.5",
@@ -154,7 +155,7 @@
       "dateInstalled": "2021-11-15T20:13:19.6989208Z",
       "dateUpdated": "2021-11-22T12:16:17.199494Z",
       "dateLastUpdateAttempted": "2021-11-22T12:16:17.199494Z",
-      "status": 4,
+      "status": 3,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -398,7 +399,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 326041,
@@ -639,7 +640,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 256247,
@@ -4551,7 +4552,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 246640,
@@ -5255,7 +5256,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 313970,
@@ -5723,7 +5724,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 332817,
@@ -5813,7 +5814,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 378802,
@@ -5935,7 +5936,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 238086,
@@ -6099,7 +6100,7 @@
       "dateInstalled": "2021-11-15T21:18:18.9360577Z",
       "dateUpdated": "2021-11-22T12:16:46.435218Z",
       "dateLastUpdateAttempted": "2021-11-22T12:16:46.435218Z",
-      "status": 4,
+      "status": 3,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6978,7 +6979,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 69162,
@@ -7691,7 +7692,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 483310,
@@ -7806,7 +7807,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 298275,
@@ -7911,7 +7912,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 289412,
@@ -8374,7 +8375,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 314906,
@@ -9027,7 +9028,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 238747,
@@ -9609,7 +9610,7 @@
       "dateInstalled": "2021-11-15T21:08:15.0118371Z",
       "dateUpdated": "2021-11-15T21:08:15.0118371Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10315,7 +10316,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 283644,
