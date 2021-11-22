@@ -1,0 +1,4 @@
+minecraft:overworld
+minecraft:the_nether
+immersive_portals:alternate1
+immersive_portals:alternate5

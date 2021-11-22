@@ -1,0 +1,19 @@
+{
+	id: "4d371eb1-da6c-472b-aaf7-da4b43cc72d0"
+	type: "player"
+	player_name: "B3r4ti0n"
+	ranks: {
+		4d371eb1-da6c-472b-aaf7-da4b43cc72d0: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "B3r4ti0n"
+		"ftbteams:color": "#FF59F4"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

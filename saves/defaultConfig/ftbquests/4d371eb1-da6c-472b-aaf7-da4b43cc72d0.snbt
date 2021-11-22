@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "4d371eb1da6c472baaf7da4b43cc72d0"
+	name: "B3r4ti0n"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

@@ -1,0 +1,21 @@
+[17:15:11] [INFO] server_scripts:script.js:8: Hello, World! (You will see this line every time server resources reload)
+[17:15:11] [INFO] SourceFile:407: Loaded script server_scripts:script.js in 0.004 s
+[17:15:11] [INFO] SourceFile:407: Loaded 1/1 KubeJS server scripts in 0.018 s
+[17:15:11] [INFO] Scripts loaded
+[17:15:11] [INFO] Scanning recipes...
+[17:15:12] [INFO] [blocks] Found 413 tags, added 0 objects, removed 0 objects
+[17:15:12] [INFO] [items] Found 852 tags, added 0 objects, removed 0 objects
+[17:15:12] [INFO] [fluids] Found 128 tags, added 0 objects, removed 0 objects
+[17:15:12] [INFO] [entity_types] Found 26 tags, added 0 objects, removed 0 objects
+[17:15:12] [INFO] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[17:15:12] [INFO] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
+[17:15:12] [INFO] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[17:15:12] [INFO] [tile_entity_types] Found 4 tags, added 0 objects, removed 0 objects
+[17:15:12] [INFO] Found 8415 recipes and 0 failed recipes in 406.3 ms
+[17:15:12] [INFO] Posted recipe events in 9.510 ms
+[17:15:13] [WARN] Error parsing recipe immersivepetroleum:hydrotreater/sulfur_recovery[immersivepetroleum:hydrotreater]: {"type":"immersivepetroleum:hydrotreater","time":1,"energy":512,"result":{"fluid":"immersivepetroleum:diesel","amount":7},"input":{"tag":"forge:diesel_sulfur","amount":7},"secondary_input":{"tag":"minecraft:water","amount":7},"secondary_result":{"item":"immersiveengineering:dust_sulfur"}}: java.lang.IllegalArgumentException: Unexpected json object.
+[17:15:13] [WARN] Error parsing recipe immersivepetroleum:distillationtower/oilcracking[immersivepetroleum:distillation]: {"type":"immersivepetroleum:distillation","byproducts":[{"item":"immersivepetroleum:bitumen"}],"results":[{"fluid":"immersivepetroleum:lubricant","amount":9},{"fluid":"immersivepetroleum:diesel_sulfur","amount":14},{"fluid":"immersivepetroleum:gasoline","amount":39}],"input":{"tag":"forge:crude_oil","amount":75},"time":1,"energy":2048}: java.lang.IllegalArgumentException: Unexpected json object.
+[17:15:13] [INFO] Modified & removed recipes in 169.8 ms
+[17:15:13] [INFO] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 2 failed recipes and 0 fall-backed recipes
+[17:15:13] [INFO] Added recipes in 10.54 μs
+[17:15:13] [INFO] [functions] Found 0 tags, added 0 objects, removed 0 objects
