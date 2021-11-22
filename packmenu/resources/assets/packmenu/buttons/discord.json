@@ -1,0 +1,18 @@
+{
+	"x": 2,
+	"y": 48,
+	"width": 98,
+	"height": 20,
+	"texture": "packmenu:textures/gui/discord.png",
+	"u": 0,
+	"v": 0,
+	"hoverU": 0,
+	"hoverV": 20,
+	"texWidth": 150,
+	"texHeight": 40,
+	"widgets": false,
+	"langKey": "Discord",
+	"action": "OPEN_URL",
+	"data": "https://discord.gg/5cQm9ECWU9",
+	"textXOffset": 5
+}
