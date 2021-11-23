@@ -8523,3 +8523,1474 @@
 			Armor_Enchantability = 12
 			Set_Effects = ["Invisibility"]
 
+	[Armor_Sets.extendedcrafting]
+
+		[Armor_Sets.extendedcrafting.black_iron_block]
+			Enabled = true
+			Armor_Durability = 18
+			Armor_Damage_Reduction = 2.3400001525878906
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.extendedcrafting.crystaltine_block]
+			Enabled = true
+			Armor_Durability = 18
+			Armor_Damage_Reduction = 2.3400001525878906
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.extendedcrafting.ender_star_block]
+			Enabled = true
+			Armor_Durability = 18
+			Armor_Damage_Reduction = 2.3400001525878906
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Ender"]
+
+		[Armor_Sets.extendedcrafting.luminessence_block]
+			Enabled = true
+			Armor_Durability = 18
+			Armor_Damage_Reduction = 2.3400001525878906
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.extendedcrafting.nether_star_block]
+			Enabled = true
+			Armor_Durability = 18
+			Armor_Damage_Reduction = 2.3400001525878906
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.extendedcrafting.the_ultimate_block]
+			Enabled = true
+			Armor_Durability = 18
+			Armor_Damage_Reduction = 2.3400001525878906
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+	[Armor_Sets.betterendforge]
+
+		[Armor_Sets.betterendforge.aeternium_block]
+			Enabled = true
+			Armor_Durability = 27
+			Armor_Damage_Reduction = 3.3804004192352295
+			Armor_Toughness = 3.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.amaranita_cap]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.amaranita_hyphae]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.amaranita_lantern]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Illuminated (15)"]
+
+		[Armor_Sets.betterendforge.amaranita_stem]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.amber_block]
+			Enabled = true
+			Armor_Durability = 18
+			Armor_Damage_Reduction = 2.3400001525878906
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Experience Giving"]
+
+		[Armor_Sets.betterendforge.amber_moss]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth", "Experience Giving"]
+
+		[Armor_Sets.betterendforge.ancient_emerald_ice]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0920000076293945
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Lucky", "Frosty", "Slippery"]
+
+		[Armor_Sets.betterendforge.aurora_crystal]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Illuminated (15)"]
+
+		[Armor_Sets.betterendforge.blue_vine_lantern]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Illuminated (15)"]
+
+		[Armor_Sets.betterendforge.brimstone]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Rocky"]
+
+		[Armor_Sets.betterendforge.cave_bush]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.cave_moss]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.chorus_nylium]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Ender", "Fiery"]
+
+		[Armor_Sets.betterendforge.crystal_moss]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.dense_emerald_ice]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Lucky", "Frosty", "Slippery"]
+
+		[Armor_Sets.betterendforge.dense_snow]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Snowy", "Frosty"]
+
+		[Armor_Sets.betterendforge.dragon_bone_block]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Bonemealer"]
+
+		[Armor_Sets.betterendforge.dragon_tree_bark]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.dragon_tree_bookshelf]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.dragon_tree_crafting_table]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Crafter"]
+
+		[Armor_Sets.betterendforge.dragon_tree_leaves]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Lightweight", "Regrowth"]
+
+		[Armor_Sets.betterendforge.dragon_tree_log]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.dragon_tree_planks]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.dragon_tree_stripped_bark]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.dragon_tree_stripped_log]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.emerald_ice]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Lucky", "Frosty", "Slippery"]
+
+		[Armor_Sets.betterendforge.end_lotus_bark]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.end_lotus_bookshelf]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.end_lotus_crafting_table]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Crafter"]
+
+		[Armor_Sets.betterendforge.end_lotus_log]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.end_lotus_planks]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.end_lotus_stripped_bark]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.end_lotus_stripped_log]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.end_moss]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.end_mycelium]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.ender_block]
+			Enabled = true
+			Armor_Durability = 18
+			Armor_Damage_Reduction = 2.3400001525878906
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Ender"]
+
+		[Armor_Sets.betterendforge.endstone_dust]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Falling", "Rocky"]
+
+		[Armor_Sets.betterendforge.filalux_lantern]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Illuminated (15)"]
+
+		[Armor_Sets.betterendforge.flavolite]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.flavolite_bricks]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Immovable (0.25)", "Health Boost (4.0)"]
+
+		[Armor_Sets.betterendforge.flavolite_pillar]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.flavolite_polished]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.flavolite_runed]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 3.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.flavolite_runed_eternal]
+			Enabled = true
+			Armor_Durability = 0
+			Armor_Damage_Reduction = 57.60000228881836
+			Armor_Toughness = 20.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.flavolite_tiles]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.glowing_pillar_luminophor]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Illuminated (15)", "Regrowth"]
+
+		[Armor_Sets.betterendforge.helix_tree_bark]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.helix_tree_bookshelf]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.helix_tree_crafting_table]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Crafter"]
+
+		[Armor_Sets.betterendforge.helix_tree_leaves]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Lightweight", "Regrowth"]
+
+		[Armor_Sets.betterendforge.helix_tree_log]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.helix_tree_planks]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.helix_tree_stripped_bark]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.helix_tree_stripped_log]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.hydralux_petal_block]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.hydralux_petal_block_black]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.hydralux_petal_block_blue]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.hydralux_petal_block_brown]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.hydralux_petal_block_cyan]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.hydralux_petal_block_gray]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.hydralux_petal_block_green]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.hydralux_petal_block_light_blue]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.hydralux_petal_block_light_gray]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.hydralux_petal_block_lime]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.hydralux_petal_block_magenta]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.hydralux_petal_block_orange]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.hydralux_petal_block_pink]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.hydralux_petal_block_purple]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.hydralux_petal_block_red]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.hydralux_petal_block_white]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.hydralux_petal_block_yellow]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.jellyshroom_bark]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.jellyshroom_bookshelf]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.jellyshroom_cap_purple]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Slippery"]
+
+		[Armor_Sets.betterendforge.jellyshroom_crafting_table]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Crafter"]
+
+		[Armor_Sets.betterendforge.jellyshroom_log]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.jellyshroom_planks]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.jellyshroom_stripped_bark]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.jellyshroom_stripped_log]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.jungle_moss]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.lacugrove_bark]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.lacugrove_bookshelf]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.lacugrove_crafting_table]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Crafter"]
+
+		[Armor_Sets.betterendforge.lacugrove_leaves]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Lightweight", "Regrowth"]
+
+		[Armor_Sets.betterendforge.lacugrove_log]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.lacugrove_planks]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.lacugrove_stripped_bark]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.lacugrove_stripped_log]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.lucernia_bark]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.lucernia_bookshelf]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.lucernia_crafting_table]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Crafter"]
+
+		[Armor_Sets.betterendforge.lucernia_leaves]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Lightweight", "Regrowth"]
+
+		[Armor_Sets.betterendforge.lucernia_log]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.lucernia_planks]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.lucernia_stripped_bark]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.lucernia_stripped_log]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.menger_sponge]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Absorbent"]
+
+		[Armor_Sets.betterendforge.menger_sponge_wet]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Absorbent"]
+
+		[Armor_Sets.betterendforge.missing_tile]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.mossy_dragon_bone]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Bonemealer", "Regrowth"]
+
+		[Armor_Sets.betterendforge.mossy_glowshroom_bark]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.mossy_glowshroom_bookshelf]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.mossy_glowshroom_cap]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.mossy_glowshroom_crafting_table]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Crafter", "Regrowth"]
+
+		[Armor_Sets.betterendforge.mossy_glowshroom_log]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.mossy_glowshroom_planks]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.mossy_glowshroom_stripped_bark]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.mossy_glowshroom_stripped_log]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.mossy_obsidian]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Immovable (0.25)", "Regrowth", "Flame Resistant", "Health Boost (4.0)"]
+
+		[Armor_Sets.betterendforge.neon_cactus_block]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Illuminated (15)", "Regrowth", "Prickly"]
+
+		[Armor_Sets.betterendforge.pink_moss]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.pythadendron_bark]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.pythadendron_bookshelf]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.pythadendron_crafting_table]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Crafter"]
+
+		[Armor_Sets.betterendforge.pythadendron_leaves]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Lightweight", "Regrowth"]
+
+		[Armor_Sets.betterendforge.pythadendron_log]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.pythadendron_planks]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.pythadendron_stripped_bark]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.pythadendron_stripped_log]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.rutiscus]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.sangnum]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.shadow_grass]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.silk_moth_nest]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.smaragdant_crystal]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Illuminated (15)"]
+
+		[Armor_Sets.betterendforge.sulphuric_rock]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Rocky"]
+
+		[Armor_Sets.betterendforge.sulphuric_rock_bricks]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Immovable (0.25)", "Health Boost (4.0)", "Rocky"]
+
+		[Armor_Sets.betterendforge.sulphuric_rock_pillar]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Rocky"]
+
+		[Armor_Sets.betterendforge.sulphuric_rock_polished]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Rocky"]
+
+		[Armor_Sets.betterendforge.sulphuric_rock_tiles]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Rocky"]
+
+		[Armor_Sets.betterendforge.tenanea_bark]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.tenanea_bookshelf]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.tenanea_crafting_table]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Crafter"]
+
+		[Armor_Sets.betterendforge.tenanea_leaves]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Lightweight", "Regrowth"]
+
+		[Armor_Sets.betterendforge.tenanea_log]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.tenanea_planks]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.tenanea_stripped_bark]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.tenanea_stripped_log]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.terminite_block]
+			Enabled = true
+			Armor_Durability = 13
+			Armor_Damage_Reduction = 1.6380001306533813
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.terminite_tile]
+			Enabled = true
+			Armor_Durability = 13
+			Armor_Damage_Reduction = 1.6380001306533813
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.thallasium_block]
+			Enabled = true
+			Armor_Durability = 9
+			Armor_Damage_Reduction = 1.1700000762939453
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.thallasium_tile]
+			Enabled = true
+			Armor_Durability = 9
+			Armor_Damage_Reduction = 1.1700000762939453
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.umbrella_tree_bark]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.umbrella_tree_bookshelf]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.umbrella_tree_cluster]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Illuminated (15)"]
+
+		[Armor_Sets.betterendforge.umbrella_tree_cluster_empty]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.umbrella_tree_crafting_table]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Crafter"]
+
+		[Armor_Sets.betterendforge.umbrella_tree_log]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.umbrella_tree_membrane]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Slippery"]
+
+		[Armor_Sets.betterendforge.umbrella_tree_planks]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.umbrella_tree_stripped_bark]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.umbrella_tree_stripped_log]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Regrowth"]
+
+		[Armor_Sets.betterendforge.violecite]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.violecite_bricks]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Immovable (0.25)", "Health Boost (4.0)"]
+
+		[Armor_Sets.betterendforge.violecite_pillar]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.violecite_polished]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.betterendforge.violecite_tiles]
+			Enabled = true
+			Armor_Durability = 11
+			Armor_Damage_Reduction = 1.4040000438690186
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+

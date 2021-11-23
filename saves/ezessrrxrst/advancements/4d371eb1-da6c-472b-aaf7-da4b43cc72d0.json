@@ -527,15 +527,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
-    "criteria": {
-      "has_string": "2021-11-22 18:14:03 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2021-11-22 17:19:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2021-11-22 18:14:03 +0100"
     },
     "done": true
   },
@@ -1145,15 +1145,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2021-11-22 18:15:58 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-11-22 17:19:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-11-22 18:15:58 +0100"
     },
     "done": true
   },
@@ -1217,15 +1217,15 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2021-11-22 18:27:29 +0100"
-    },
-    "done": true
-  },
   "create:recipes/create.base/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2021-11-22 18:14:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-11-22 18:27:29 +0100"
     },
     "done": true
   },
@@ -1235,15 +1235,15 @@
     },
     "done": true
   },
-  "create:recipes/create.base/crafting/kinetics/pink_seat": {
-    "criteria": {
-      "has_wool": "2021-11-22 18:14:26 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2021-11-22 17:18:16 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2021-11-22 18:14:26 +0100"
     },
     "done": true
   },
