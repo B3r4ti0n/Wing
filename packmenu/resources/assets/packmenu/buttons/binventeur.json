@@ -11,5 +11,5 @@
 	"texHeight": 90,
 	"texture": "packmenu:textures/gui/binventeur.png",
 	"action": "OPEN_URL",
-	"data": "https://discord.gg/5cQm9ECWU9"
+	"data": "https://github.com/Binventeur"
 }
