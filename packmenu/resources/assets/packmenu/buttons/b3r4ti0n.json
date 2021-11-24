@@ -6,9 +6,9 @@
 	"u": 0,
 	"v": 0,
 	"hoverU": 0,
-	"hoverV": 0,
+	"hoverV": 45,
 	"texWidth": 45,
-	"texHeight": 45,
+	"texHeight": 90,
 	"texture": "packmenu:textures/gui/b3r4ti0n.png",
 	"action": "OPEN_URL",
 	"data": "https://discord.gg/5cQm9ECWU9"

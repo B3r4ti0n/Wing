@@ -6,7 +6,7 @@
 	"u": 0,
 	"v": 0,
 	"hoverU": 0,
-	"hoverV": 200,
+	"hoverV": 20,
 	"texWidth": 200,
 	"texHeight": 40,
 	"texture": "packmenu:textures/gui/bouton200x40.png",
