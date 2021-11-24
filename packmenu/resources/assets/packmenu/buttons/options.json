@@ -1,8 +1,15 @@
 {
 	"x": -100,
-	"y": 84,
+	"y": 72,
 	"width": 98,
 	"height": 20,
+	"u": 0,
+	"v": 0,
+	"hoverU": 0,
+	"hoverV": 98,
+	"texWidth": 98,
+	"texHeight": 40,
+	"texture": "packmenu:textures/gui/bouton98x40.png",
 	"langKey": "menu.options",
 	"action": "OPEN_GUI",
 	"data": "OPTIONS"

@@ -1,0 +1,15 @@
+{
+	"x": 104,
+	"y": 48,
+	"width": 45,
+	"height": 45,
+	"u": 0,
+	"v": 0,
+	"hoverU": 0,
+	"hoverV": 0,
+	"texWidth": 45,
+	"texHeight": 45,
+	"texture": "packmenu:textures/gui/binventeur.png",
+	"action": "OPEN_URL",
+	"data": "https://discord.gg/5cQm9ECWU9"
+}
