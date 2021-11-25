@@ -2,6 +2,7 @@
 onEvent('jei.hide.items', event => {
 
 	event.hide([
+		//copper
 		'immersiveengineering:storage_copper', 
 		'tconstruct:copper_block', 
 		'immersiveengineering:ingot_copper', 
@@ -19,6 +20,13 @@ onEvent('jei.hide.items', event => {
 		'create:copper_block', 
 		'create:copper_shingles', 
 		'create:copper_tiles',
+		//lead
+		'immersiveengineering:dust_lead', 
+		'immersiveengineering:plate_lead', 
+		'immersiveengineering:ingot_lead', 
+		'immersiveengineering:nugget_lead', 
+		'immersiveengineering:storage_lead', 
+		'immersiveengineering:ore_lead',
 		/appliedenergistics2:facade/
 	])
 
@@ -28,10 +36,13 @@ onEvent('jei.hide.items', event => {
 onEvent('jei.add.items', event => {
 	
 	event.add([
+		//copper
 		'thermal:copper_ore', 
 		'create:copper_nugget', 
 		'create:copper_ingot', 
 		'thermal:copper_block',
+		//lead
+		
 		Item.of('appliedenergistics2:facade', '{item:"minecraft:stone"}')
 	])
 
