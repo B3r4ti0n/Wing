@@ -27,6 +27,13 @@ onEvent('jei.hide.items', event => {
 		'immersiveengineering:nugget_lead', 
 		'immersiveengineering:storage_lead', 
 		'immersiveengineering:ore_lead',
+		//nickel
+		'immersiveengineering:ingot_nickel', 
+		'immersiveengineering:nugget_nickel', 
+		'immersiveengineering:storage_nickel', 
+		'immersiveengineering:dust_nickel', 
+		'immersiveengineering:plate_nickel', 
+		'immersiveengineering:ore_nickel',
 		/appliedenergistics2:facade/
 	])
 
@@ -42,6 +49,7 @@ onEvent('jei.add.items', event => {
 		'create:copper_ingot', 
 		'thermal:copper_block',
 		//lead
+		//nickel
 		
 		Item.of('appliedenergistics2:facade', '{item:"minecraft:stone"}')
 	])
