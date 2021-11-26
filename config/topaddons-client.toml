@@ -40,3 +40,7 @@
 	#Always show Flux Cell input/output rate (even when not extended)
 	alwaysShowCellIo = false
 
+[storagedrawers]
+	#Always display the extended drawer info
+	alwaysDisplayExtended = false
+
