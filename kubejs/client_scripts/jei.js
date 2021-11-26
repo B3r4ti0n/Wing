@@ -34,6 +34,13 @@ onEvent('jei.hide.items', event => {
 		'immersiveengineering:dust_nickel', 
 		'immersiveengineering:plate_nickel', 
 		'immersiveengineering:ore_nickel',
+		//silver
+		'immersiveengineering:dust_silver', 
+		'immersiveengineering:ingot_silver', 
+		'immersiveengineering:nugget_silver', 
+		'immersiveengineering:storage_silver', 
+		'immersiveengineering:plate_silver', 
+		'immersiveengineering:ore_silver',
 		/appliedenergistics2:facade/
 	])
 
