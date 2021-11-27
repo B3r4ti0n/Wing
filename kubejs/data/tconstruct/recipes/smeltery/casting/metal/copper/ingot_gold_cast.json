@@ -17,7 +17,7 @@
     "amount": 144
   },
   "result": {
-    "item": "thermal:copper_ingot"
+    "item": "create:copper_ingot"
   },
   "cooling_time": 43
 }

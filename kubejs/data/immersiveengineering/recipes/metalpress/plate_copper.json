@@ -1,1 +1,1 @@
-{"type":"immersiveengineering:metal_press","mold":{"item":"immersiveengineering:mold_plate"},"result":{"item":"thermal:copper_plate"},"input":{"item":"thermal:copper_ingot"},"energy":2400}
+{"type":"immersiveengineering:metal_press","mold":{"item":"immersiveengineering:mold_plate"},"result":{"item":"thermal:copper_plate"},"input":{"item":"create:copper_ingot"},"energy":2400}
