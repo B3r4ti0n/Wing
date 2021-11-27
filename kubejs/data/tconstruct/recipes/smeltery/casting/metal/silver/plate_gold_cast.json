@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:casting_table",
+  "conditions": [
+    {
+      "value": {
+        "item": "thermal:silver_plate",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/plate"
+  },
+  "fluid": {
+    "tag": "forge:molten_silver",
+    "amount": 144
+  },
+  "result": {
+    "item": "thermal:silver_plate"
+  },
+  "cooling_time": 43
+}

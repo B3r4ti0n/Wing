@@ -1,0 +1,20 @@
+{
+  "type": "tconstruct:casting_basin",
+  "conditions": [
+    {
+      "value": {
+        "item": "thermal:copper_block",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "fluid": {
+    "tag": "forge:molten_copper",
+    "amount": 1296
+  },
+  "result": {
+    "item": "thermal:copper_block"
+  },
+  "cooling_time": 130
+}
