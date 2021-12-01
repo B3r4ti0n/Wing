@@ -1,0 +1,17 @@
+{
+	id: "37D5CD2A10ADDAB7"
+	group: "1A363A24513B27D2"
+	order_index: 0
+	filename: "project"
+	title: "Project E / EX"
+	icon: {
+		id: "projecte:klein_star_sphere"
+		Count: 1b
+		ForgeCaps: {
+			Parent: { }
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

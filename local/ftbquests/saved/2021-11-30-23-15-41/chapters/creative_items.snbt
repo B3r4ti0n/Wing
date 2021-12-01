@@ -1,0 +1,11 @@
+{
+	id: "30A38AE53D10DA74"
+	group: "1A363A24513B27D2"
+	order_index: 2
+	filename: "creative_items"
+	title: "Creatives Items"
+	icon: "mysticalagradditions:creative_essence"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

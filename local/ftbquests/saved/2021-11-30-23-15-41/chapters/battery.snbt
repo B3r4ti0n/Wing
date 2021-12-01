@@ -1,0 +1,11 @@
+{
+	id: "2A1BC63C53779324"
+	group: "3641097ED2E96DFD"
+	order_index: 0
+	filename: "battery"
+	title: "Battery"
+	icon: "colossal_battery:battery_wall_ultimate"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

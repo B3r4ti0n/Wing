@@ -1,0 +1,21 @@
+{
+	id: "50761673035A539A"
+	group: ""
+	order_index: 0
+	filename: "home"
+	title: "home"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		x: -1.0d
+		y: -0.5d
+		shape: "rsquare"
+		description: [""]
+		id: "062B1F3E251DA090"
+		tasks: [{
+			id: "5D6A8B9E44709418"
+			type: "checkmark"
+			title: "Start"
+		}]
+	}]
+}

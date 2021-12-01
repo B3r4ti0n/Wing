@@ -1,0 +1,11 @@
+{
+	id: "23B9BB26E71587B6"
+	group: ""
+	order_index: 3
+	filename: "storage"
+	title: "Storage"
+	icon: "refinedstorage:orange_controller"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

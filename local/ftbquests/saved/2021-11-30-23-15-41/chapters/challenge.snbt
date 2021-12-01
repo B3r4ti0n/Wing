@@ -1,0 +1,11 @@
+{
+	id: "17C9875CD31C2D60"
+	group: ""
+	order_index: 8
+	filename: "challenge"
+	title: "Challenge"
+	icon: "minecraft:bedrock"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

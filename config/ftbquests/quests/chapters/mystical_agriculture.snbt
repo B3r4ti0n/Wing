@@ -1,0 +1,11 @@
+{
+	id: "0DE2AF1FEF7E0F6C"
+	group: ""
+	order_index: 7
+	filename: "mystical_agriculture"
+	title: "Mystical Agriculture"
+	icon: "mysticalagriculture:prosperity_seed_base"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

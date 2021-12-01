@@ -1,0 +1,11 @@
+{
+	id: "78133997BBB93261"
+	group: "3641097ED2E96DFD"
+	order_index: 2
+	filename: "powah"
+	title: "Powah"
+	icon: "powah:energy_cell_creative"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

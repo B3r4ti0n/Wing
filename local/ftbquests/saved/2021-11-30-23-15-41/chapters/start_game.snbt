@@ -1,0 +1,11 @@
+{
+	id: "2A55B484E11022C4"
+	group: ""
+	order_index: 2
+	filename: "start_game"
+	title: "Mess"
+	icon: "minecraft:writable_book"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

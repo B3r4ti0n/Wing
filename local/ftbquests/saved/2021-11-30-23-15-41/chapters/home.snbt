@@ -1,0 +1,38 @@
+{
+	id: "50761673035A539A"
+	group: ""
+	order_index: 0
+	filename: "home"
+	title: "Welcome"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [{
+		x: 0.0d
+		y: -5.0d
+		width: 12.5d
+		height: 6.25d
+		rotation: 0.0d
+		image: "packmenu:textures/gui/background.png"
+		hover: ["WELCOME"]
+		click: ""
+		dev: false
+		corner: true
+	}]
+	quests: [{
+		x: 0.0d
+		y: 0.0d
+		shape: "rsquare"
+		subtitle: "Welcome"
+		description: [
+			"EN : Welcome to our first modpack. This modpack is called 'Wings' and is played with a type of floating islands world, of course this modpacks can be played from a custom or normal generation. After validating this quest, you can play the modpack by doing the quests if you like. We no longer wish you a good game and thank you for downloading our modpack. :)"
+			" "
+			"FR : Bienvenue sur notre premier modpack. Ce modpack s'appelle 'Wings' et se joue avec un type de monde floating islands, biensur ce modpacks peut-être joué depuis une génération custom ou normal. Après avoir validé cette quete , vous pourrez joué(e) au modpack en fesant les quêtes si cela vous fait plaisir. Nous avons plus cas vous souhaiter un bon game et merci d'avoir téléchargé(e) notre modpack. :)"
+		]
+		id: "062B1F3E251DA090"
+		tasks: [{
+			id: "5D6A8B9E44709418"
+			type: "checkmark"
+			title: "Start"
+		}]
+	}]
+}

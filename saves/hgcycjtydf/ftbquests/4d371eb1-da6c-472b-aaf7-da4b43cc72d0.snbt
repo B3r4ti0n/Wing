@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "4d371eb1da6c472baaf7da4b43cc72d0"
+	name: "B3r4ti0n"
+	can_edit: true
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: {
+		50761673035A539A: 1638222805258L
+		0000000000000001: 1638222805258L
+		369A0A6B38DA0EED: 1638305723551L
+	}
+	completed: {
+		0000000000000000: 1638295847732L
+		50761673035A539A: 1638295847732L
+		0000000000000001: 1638295847732L
+		369A0A6B38DA0EED: 1638305723551L
+	}
+	claimed_rewards: { }
+	pinned_quests: ["0000000000000001"]
+}

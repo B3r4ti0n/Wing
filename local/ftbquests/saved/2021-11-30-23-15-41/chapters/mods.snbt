@@ -1,0 +1,235 @@
+{
+	id: "369A0A6B38DA0EED"
+	group: ""
+	order_index: 1
+	filename: "mods"
+	title: "Mods"
+	icon: "titanium:iron_gear"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			hide_dependency_lines: true
+			id: "777855E057C2EE9D"
+			tasks: [{
+				id: "4888CA406FD3CD1C"
+				type: "checkmark"
+				title: "first quest"
+			}]
+		}
+		{
+			title: "Mess Access"
+			x: 0.0d
+			y: -3.0d
+			dependencies: ["777855E057C2EE9D"]
+			id: "39A4C0AA8DD0277B"
+			tasks: [{
+				id: "5E9BDEF69FB76D6B"
+				type: "item"
+				item: "minecraft:writable_book"
+			}]
+			rewards: [{
+				id: "230DA01B3628D971"
+				type: "item"
+				item: "pipez:wrench"
+			}]
+		}
+		{
+			title: "Storage Access"
+			x: 2.0d
+			y: -2.0d
+			dependencies: ["777855E057C2EE9D"]
+			id: "19A2422DCFE38FEB"
+			tasks: [
+				{
+					id: "1FC5DBC98A6F96FD"
+					type: "item"
+					item: "appliedenergistics2:certus_quartz_crystal"
+					count: 16L
+				}
+				{
+					id: "38BEC5B04DBD24CA"
+					type: "item"
+					item: "refinedstorage:processor_binding"
+					count: 16L
+				}
+			]
+			rewards: [
+				{
+					id: "24CEE74B40CB0E22"
+					type: "item"
+					item: "refinedstorage:wrench"
+				}
+				{
+					id: "5A1AC4C0CE15FB3B"
+					type: "item"
+					item: "appliedenergistics2:certus_quartz_wrench"
+				}
+			]
+		}
+		{
+			title: "Thermal Series Access"
+			icon: "thermal:device_rock_gen"
+			x: -2.0d
+			y: -2.0d
+			dependencies: ["777855E057C2EE9D"]
+			id: "478AA023B755B6C8"
+			tasks: [{
+				id: "6DEB560C988E0C31"
+				type: "item"
+				item: "thermal:copper_block"
+				count: 16L
+			}]
+			rewards: [{
+				id: "5C08E64293E28D54"
+				type: "item"
+				item: {
+					id: "thermal:energy_cell"
+					Count: 1b
+					tag: {
+						BlockEntityTag: {
+							EnergyMax: 1000000
+							EnergySend: 1000
+							Energy: 0
+							EnergyRecv: 1000
+						}
+					}
+				}
+			}]
+		}
+		{
+			title: "Immersive Engineering Access"
+			x: -3.0d
+			y: 0.0d
+			dependencies: ["777855E057C2EE9D"]
+			id: "1552B1388E6FBB30"
+			tasks: [{
+				id: "601728537EB3FACC"
+				type: "item"
+				item: {
+					id: "immersiveengineering:hammer"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "21F28DCA2A4908A4"
+				type: "item"
+				item: "immersiveengineering:manual"
+			}]
+		}
+		{
+			title: "Create Access"
+			x: 3.0d
+			y: 0.0d
+			dependencies: ["777855E057C2EE9D"]
+			id: "48B5C4A3FD3885C6"
+			tasks: [{
+				id: "6B0523BACF6087EE"
+				type: "item"
+				item: "create:shaft"
+				count: 16L
+			}]
+			rewards: [{
+				id: "420C280CCB495E45"
+				type: "item"
+				item: "create:wrench"
+			}]
+		}
+		{
+			title: "Mystical Agriculture Access"
+			x: 2.0d
+			y: 2.0d
+			dependencies: ["777855E057C2EE9D"]
+			id: "26FD5BD6EA3BF5EF"
+			tasks: [{
+				id: "1DDA0B847524359B"
+				type: "item"
+				item: "minecraft:wheat_seeds"
+				count: 64L
+			}]
+			rewards: [{
+				id: "7F9CA6FFF756C7C3"
+				type: "item"
+				item: "mysticalagriculture:prosperity_shard"
+				count: 16
+				random_bonus: 16
+			}]
+		}
+		{
+			title: "Challenge Access"
+			x: -2.0d
+			y: 2.0d
+			dependencies: ["777855E057C2EE9D"]
+			id: "0CF0C349334BBC9C"
+			tasks: [{
+				id: "006DD86F155BAF32"
+				type: "item"
+				item: "minecraft:bedrock"
+				count: 64L
+			}]
+			rewards: [{
+				id: "2D04AD5DEB9FC817"
+				type: "item"
+				item: "minecraft:stone"
+				count: 42
+			}]
+		}
+		{
+			title: "Energy Access"
+			icon: {
+				id: "powah:battery_nitro"
+				Count: 1b
+				tag: { }
+			}
+			x: -5.0d
+			y: -3.0d
+			dependencies: ["777855E057C2EE9D"]
+			size: 2.5d
+			id: "3608F3C744A73FC9"
+			tasks: [{
+				id: "4561001E3C012B02"
+				type: "item"
+				item: {
+					id: "powah:battery_starter"
+					Count: 1b
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "69B38556C46D2BA5"
+				type: "item"
+				item: {
+					id: "powah:battery_starter"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+		{
+			icon: "projectex:final_power_flower"
+			x: 5.0d
+			y: -3.0d
+			dependencies: ["777855E057C2EE9D"]
+			size: 2.5d
+			id: "2BF4744C67535A5C"
+			tasks: [{
+				id: "53F10D4D23F638F1"
+				type: "item"
+				item: "extendedcrafting:black_iron_ingot"
+				count: 16L
+			}]
+			rewards: [{
+				id: "1BDFFCD967CB6FE0"
+				type: "item"
+				item: "extendedcrafting:black_iron_ingot"
+				count: 8
+				random_bonus: 8
+			}]
+		}
+	]
+}
