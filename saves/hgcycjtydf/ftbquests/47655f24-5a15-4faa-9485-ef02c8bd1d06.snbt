@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "47655f245a154faa9485ef02c8bd1d06"
+	name: "JPlagazelle"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

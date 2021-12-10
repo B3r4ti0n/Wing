@@ -4,7 +4,7 @@
 [General]
 	#Specifies how many armor pieces must be worn for a set's effects to work.
 	#Range: 1 ~ 4
-	"Armor pieces required for Set Effects" = 2
+	"Armor pieces required for Set Effects" = 1
 	#Should Set Effects use durability of worn armor to work
 	"Set Effects use durability" = false
 
@@ -34,7 +34,7 @@
 		[Armor_Sets.minecraft.acacia_leaves]
 			Enabled = true
 			Armor_Durability = 8
-			Armor_Damage_Reduction = 1.0
+			Armor_Damage_Reduction = 10000.0
 			Armor_Toughness = 0.0
 			Armor_Knockback_Resistance = 0
 			Armor_Enchantability = 12

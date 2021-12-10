@@ -4,7 +4,7 @@
 [General]
 	#Specifies how many armor pieces must be worn for a set's effects to work.
 	#Range: 1 ~ 4
-	"Armor pieces required for Set Effects" = 2
+	"Armor pieces required for Set Effects" = 1
 	#Should Set Effects use durability of worn armor to work
 	"Set Effects use durability" = false
 
@@ -34,7 +34,7 @@
 		[Armor_Sets.minecraft.acacia_leaves]
 			Enabled = true
 			Armor_Durability = 8
-			Armor_Damage_Reduction = 1.0
+			Armor_Damage_Reduction = 2.0
 			Armor_Toughness = 0.0
 			Armor_Knockback_Resistance = 0
 			Armor_Enchantability = 12
@@ -10787,170 +10787,6 @@
 			Armor_Enchantability = 12
 			Set_Effects = []
 
-	[Armor_Sets.colossal_battery]
-
-		[Armor_Sets.colossal_battery.battery_inner_material_mek_advanced]
-			Enabled = true
-			Armor_Durability = 8
-			Armor_Damage_Reduction = 1.0
-			Armor_Toughness = 0.0
-			Armor_Knockback_Resistance = 0
-			Armor_Enchantability = 12
-			Set_Effects = []
-
-		[Armor_Sets.colossal_battery.battery_inner_material_mek_basic]
-			Enabled = true
-			Armor_Durability = 8
-			Armor_Damage_Reduction = 1.0
-			Armor_Toughness = 0.0
-			Armor_Knockback_Resistance = 0
-			Armor_Enchantability = 12
-			Set_Effects = []
-
-		[Armor_Sets.colossal_battery.battery_inner_material_mek_elite]
-			Enabled = true
-			Armor_Durability = 8
-			Armor_Damage_Reduction = 1.0
-			Armor_Toughness = 0.0
-			Armor_Knockback_Resistance = 0
-			Armor_Enchantability = 12
-			Set_Effects = []
-
-		[Armor_Sets.colossal_battery.battery_inner_material_mek_ultimate]
-			Enabled = true
-			Armor_Durability = 8
-			Armor_Damage_Reduction = 1.0
-			Armor_Toughness = 0.0
-			Armor_Knockback_Resistance = 0
-			Armor_Enchantability = 12
-			Set_Effects = []
-
-		[Armor_Sets.colossal_battery.battery_inner_tier_advanced]
-			Enabled = true
-			Armor_Durability = 15
-			Armor_Damage_Reduction = 1.9500000476837158
-			Armor_Toughness = 0.0
-			Armor_Knockback_Resistance = 0
-			Armor_Enchantability = 12
-			Set_Effects = []
-
-		[Armor_Sets.colossal_battery.battery_inner_tier_basic]
-			Enabled = true
-			Armor_Durability = 15
-			Armor_Damage_Reduction = 1.9500000476837158
-			Armor_Toughness = 0.0
-			Armor_Knockback_Resistance = 0
-			Armor_Enchantability = 12
-			Set_Effects = []
-
-		[Armor_Sets.colossal_battery.battery_inner_tier_ultimate]
-			Enabled = true
-			Armor_Durability = 15
-			Armor_Damage_Reduction = 1.9500000476837158
-			Armor_Toughness = 0.0
-			Armor_Knockback_Resistance = 0
-			Armor_Enchantability = 12
-			Set_Effects = []
-
-		[Armor_Sets.colossal_battery.battery_wall_copper]
-			Enabled = true
-			Armor_Durability = 15
-			Armor_Damage_Reduction = 1.9500000476837158
-			Armor_Toughness = 0.0
-			Armor_Knockback_Resistance = 0
-			Armor_Enchantability = 12
-			Set_Effects = []
-
-		[Armor_Sets.colossal_battery.battery_wall_diamond]
-			Enabled = true
-			Armor_Durability = 15
-			Armor_Damage_Reduction = 1.9500000476837158
-			Armor_Toughness = 0.0
-			Armor_Knockback_Resistance = 0
-			Armor_Enchantability = 12
-			Set_Effects = []
-
-		[Armor_Sets.colossal_battery.battery_wall_gold]
-			Enabled = true
-			Armor_Durability = 15
-			Armor_Damage_Reduction = 1.9500000476837158
-			Armor_Toughness = 0.0
-			Armor_Knockback_Resistance = 0
-			Armor_Enchantability = 12
-			Set_Effects = []
-
-		[Armor_Sets.colossal_battery.battery_wall_iron]
-			Enabled = true
-			Armor_Durability = 15
-			Armor_Damage_Reduction = 1.9500000476837158
-			Armor_Toughness = 0.0
-			Armor_Knockback_Resistance = 0
-			Armor_Enchantability = 12
-			Set_Effects = []
-
-		[Armor_Sets.colossal_battery.battery_wall_mek_advanced]
-			Enabled = true
-			Armor_Durability = 15
-			Armor_Damage_Reduction = 1.9500000476837158
-			Armor_Toughness = 0.0
-			Armor_Knockback_Resistance = 0
-			Armor_Enchantability = 12
-			Set_Effects = []
-
-		[Armor_Sets.colossal_battery.battery_wall_mek_basic]
-			Enabled = true
-			Armor_Durability = 15
-			Armor_Damage_Reduction = 1.9500000476837158
-			Armor_Toughness = 0.0
-			Armor_Knockback_Resistance = 0
-			Armor_Enchantability = 12
-			Set_Effects = []
-
-		[Armor_Sets.colossal_battery.battery_wall_mek_elite]
-			Enabled = true
-			Armor_Durability = 15
-			Armor_Damage_Reduction = 1.9500000476837158
-			Armor_Toughness = 0.0
-			Armor_Knockback_Resistance = 0
-			Armor_Enchantability = 12
-			Set_Effects = []
-
-		[Armor_Sets.colossal_battery.battery_wall_mek_ultimate]
-			Enabled = true
-			Armor_Durability = 15
-			Armor_Damage_Reduction = 1.9500000476837158
-			Armor_Toughness = 0.0
-			Armor_Knockback_Resistance = 0
-			Armor_Enchantability = 12
-			Set_Effects = []
-
-		[Armor_Sets.colossal_battery.battery_wall_obsidian]
-			Enabled = true
-			Armor_Durability = 15
-			Armor_Damage_Reduction = 1.9500000476837158
-			Armor_Toughness = 0.0
-			Armor_Knockback_Resistance = 0
-			Armor_Enchantability = 12
-			Set_Effects = ["Immovable (0.25)", "Flame Resistant", "Health Boost (4.0)"]
-
-		[Armor_Sets.colossal_battery.battery_wall_silver]
-			Enabled = true
-			Armor_Durability = 15
-			Armor_Damage_Reduction = 1.9500000476837158
-			Armor_Toughness = 0.0
-			Armor_Knockback_Resistance = 0
-			Armor_Enchantability = 12
-			Set_Effects = []
-
-		[Armor_Sets.colossal_battery.battery_wall_ultimate]
-			Enabled = true
-			Armor_Durability = 15
-			Armor_Damage_Reduction = 1.9500000476837158
-			Armor_Toughness = 0.0
-			Armor_Knockback_Resistance = 0
-			Armor_Enchantability = 12
-			Set_Effects = []
-
 	[Armor_Sets.darkutils]
 
 		[Armor_Sets.darkutils.dark_glass]
@@ -11132,4 +10968,179 @@
 			Armor_Knockback_Resistance = 0
 			Armor_Enchantability = 12
 			Set_Effects = ["Rocky"]
+
+	[Armor_Sets.colossal_battery]
+
+		[Armor_Sets.colossal_battery.battery_inner_material_mek_advanced]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.colossal_battery.battery_inner_material_mek_basic]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.colossal_battery.battery_inner_material_mek_elite]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.colossal_battery.battery_inner_material_mek_ultimate]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.colossal_battery.battery_inner_tier_advanced]
+			Enabled = true
+			Armor_Durability = 15
+			Armor_Damage_Reduction = 1.9500000476837158
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.colossal_battery.battery_inner_tier_basic]
+			Enabled = true
+			Armor_Durability = 15
+			Armor_Damage_Reduction = 1.9500000476837158
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.colossal_battery.battery_inner_tier_ultimate]
+			Enabled = true
+			Armor_Durability = 15
+			Armor_Damage_Reduction = 1.9500000476837158
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.colossal_battery.battery_wall_copper]
+			Enabled = true
+			Armor_Durability = 15
+			Armor_Damage_Reduction = 1.9500000476837158
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.colossal_battery.battery_wall_diamond]
+			Enabled = true
+			Armor_Durability = 15
+			Armor_Damage_Reduction = 1.9500000476837158
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.colossal_battery.battery_wall_gold]
+			Enabled = true
+			Armor_Durability = 15
+			Armor_Damage_Reduction = 1.9500000476837158
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.colossal_battery.battery_wall_iron]
+			Enabled = true
+			Armor_Durability = 15
+			Armor_Damage_Reduction = 1.9500000476837158
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.colossal_battery.battery_wall_mek_advanced]
+			Enabled = true
+			Armor_Durability = 15
+			Armor_Damage_Reduction = 1.9500000476837158
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.colossal_battery.battery_wall_mek_basic]
+			Enabled = true
+			Armor_Durability = 15
+			Armor_Damage_Reduction = 1.9500000476837158
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.colossal_battery.battery_wall_mek_elite]
+			Enabled = true
+			Armor_Durability = 15
+			Armor_Damage_Reduction = 1.9500000476837158
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.colossal_battery.battery_wall_mek_ultimate]
+			Enabled = true
+			Armor_Durability = 15
+			Armor_Damage_Reduction = 1.9500000476837158
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.colossal_battery.battery_wall_obsidian]
+			Enabled = true
+			Armor_Durability = 15
+			Armor_Damage_Reduction = 1.9500000476837158
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Immovable (0.25)", "Flame Resistant", "Health Boost (4.0)"]
+
+		[Armor_Sets.colossal_battery.battery_wall_silver]
+			Enabled = true
+			Armor_Durability = 15
+			Armor_Damage_Reduction = 1.9500000476837158
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.colossal_battery.battery_wall_ultimate]
+			Enabled = true
+			Armor_Durability = 15
+			Armor_Damage_Reduction = 1.9500000476837158
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+	[Armor_Sets.kubejs]
+
+		[Armor_Sets.kubejs.new_block]
+			Enabled = true
+			Armor_Durability = 22
+			Armor_Damage_Reduction = 2.7720000743865967
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
 
