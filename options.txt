@@ -132,6 +132,7 @@ key_key.immersiveengineering.chemthrowerSwitch:key.keyboard.unknown
 key_hats.key.hatsMenu:key.keyboard.h
 key_placebo.toggleWings:key.keyboard.keypad.8
 key_placebo.toggleTrails:key.keyboard.keypad.9
+key_key.dankstorage.construction:key.keyboard.i
 key_key.buildinggadgets.settings_menu:key.keyboard.g
 key_key.buildinggadgets.range:key.keyboard.r
 key_key.buildinggadgets.undo:key.keyboard.u
@@ -142,15 +143,15 @@ key_key.buildinggadgets.rotate_mirror:key.keyboard.unknown
 key_key.buildinggadgets.material_list:key.keyboard.m
 key_key.industrialforegoing.backpack.desc:key.keyboard.unknown
 key_key.curios.open.desc:key.keyboard.g
-key_key.ftbquests.quests:key.keyboard.unknown
-key_key.moreoverlays.lightoverlay.desc:key.keyboard.f7
-key_key.moreoverlays.chunkbounds.desc:key.keyboard.f9
 key_key.refinedstorage.focusSearchBar:key.keyboard.tab
 key_key.refinedstorage.clearGridCraftingMatrix:key.keyboard.x:CONTROL
 key_key.refinedstorage.openWirelessGrid:key.keyboard.unknown
 key_key.refinedstorage.openWirelessFluidGrid:key.keyboard.unknown
 key_key.refinedstorage.openWirelessCraftingMonitor:key.keyboard.unknown
 key_key.refinedstorage.openPortableGrid:key.keyboard.unknown
+key_key.moreoverlays.lightoverlay.desc:key.keyboard.f7
+key_key.moreoverlays.chunkbounds.desc:key.keyboard.f9
+key_key.ftbquests.quests:key.keyboard.unknown
 key_key.nextDestination:key.keyboard.right.bracket
 key_key.prevDestination:key.keyboard.left.bracket
 key_key.openManual:key.keyboard.f1
@@ -163,7 +164,6 @@ key_key.tconstruct.helmet_interact:key.keyboard.z
 key_cos.key.opencosarmorinventory:key.keyboard.unknown
 key_create.keyinfo.toolmenu:key.keyboard.unknown
 key_create.keyinfo.toolbelt:key.keyboard.unknown
-key_Activate Set Effect:key.keyboard.i
 key_key.projecte.helmet_toggle:key.keyboard.x:SHIFT
 key_key.projecte.boots_toggle:key.keyboard.x
 key_key.projecte.charge:key.keyboard.v

@@ -123,5 +123,307 @@ onEvent('recipes', event => {
     //Creative storage upgrade
     event.smithing('storagedrawers:creative_storage_upgrade', 'storagedrawers:emerald_storage_upgrade', 'mysticalagradditions:creative_essence')
     
+    //creative controller
+    event.recipes.extendedcrafting.shaped_table(
+        'refinedstorage:creative_controller', 
+        [
+            'BBBBBBBBB',
+            'BCUCUCCCB',
+            'BCEUUEEUB',
+            'BCEEUEUCB',
+            'BUUUSUUUB',
+            'BCUEUEECB',
+            'BUEEUUECB',
+            'BCCCUCUCB',
+            'BBBBBBBBB',
+        ], 
+        {
+            B: 'extendedcrafting:black_iron_block',
+            E: 'mysticalagradditions:creative_essence',
+            S:  'extendedcrafting:ultimate_singularity',
+            C: 'refinedstorage:controller',
+            U: 'extendedcrafting:the_ultimate_block',
+        }
+    )
+
+    //creative fluid storage block
+    event.recipes.extendedcrafting.shaped_table(
+        'refinedstorage:creative_fluid_storage_block',
+        [
+            'BBBBBBBBB',
+            'BTTTTTTTB',
+            'BTUUEUUTB',
+            'BTBUEUBTB',
+            'BTEESEETB',
+            'BTBUEUBTB',
+            'BTUUEUUTB',
+            'BTTTTTTTB',
+            'BBBBBBBBB',
+        ], 
+        {
+            B: 'extendedcrafting:black_iron_block',
+            E: 'mysticalagradditions:creative_essence',
+            S:  'extendedcrafting:ultimate_singularity',
+            T: 'industrialforegoing:supreme_black_hole_tank',
+            U: 'extendedcrafting:the_ultimate_block',
+        }
+    )
+
+    //creative storage block
+    event.recipes.extendedcrafting.shaped_table(
+        'refinedstorage:creative_storage_block',
+        [
+            'BBBBBBBBB',
+            'BTTTTTTTB',
+            'BTUUEUUTB',
+            'BTBUEUBTB',
+            'BTEESEETB',
+            'BTBUEUBTB',
+            'BTUUEUUTB',
+            'BTTTTTTTB',
+            'BBBBBBBBB',
+        ], 
+        {
+            B: 'extendedcrafting:black_iron_block',
+            E: 'mysticalagradditions:creative_essence',
+            S:  'extendedcrafting:ultimate_singularity',
+            T: 'industrialforegoing:supreme_black_hole_unit',
+            U: 'extendedcrafting:the_ultimate_block',
+        }
+    )
+
+    //creative fluid storage disk
+    event.recipes.extendedcrafting.shaped_table(
+        'refinedstorage:creative_fluid_storage_disk',
+        [
+            'TTTTTTTTT',
+            'TUREEERUT',
+            'TRUUEUURT',
+            'TEUUEUUET',
+            'TEEESEEET',
+            'TEUUEUUET',
+            'TRUUEUURT',
+            'TUREEERUT',
+            'TTTTTTTTT',
+        ], 
+        {
+            E: 'mysticalagradditions:creative_essence',
+            S:  'extendedcrafting:ultimate_singularity',
+            T: 'industrialforegoing:supreme_black_hole_tank',
+            U: 'extendedcrafting:the_ultimate_block',
+            R: 'refinedstorage:creative_fluid_storage_block',
+        }
+    )
+
+    //creative storage disk
+    event.recipes.extendedcrafting.shaped_table(
+        'refinedstorage:creative_storage_disk',
+        [
+            'TTTTTTTTT',
+            'TUREEERUT',
+            'TRUUEUURT',
+            'TEUUEUUET',
+            'TEEESEEET',
+            'TEUUEUUET',
+            'TRUUEUURT',
+            'TUREEERUT',
+            'TTTTTTTTT',
+        ], 
+        {
+            E: 'mysticalagradditions:creative_essence',
+            S:  'extendedcrafting:ultimate_singularity',
+            T: 'industrialforegoing:supreme_black_hole_unit',
+            U: 'extendedcrafting:the_ultimate_block',
+            R: 'refinedstorage:creative_fluid_storage_block',
+        }
+    )
+    //creative soulium dagger
+    event.recipes.extendedcrafting.shaped_table(
+        'mysticalagriculture:creative_soulium_dagger',
+        [
+            '       MM',
+            '      MGM',
+            '     MGM ',
+            '  E MGM  ',
+            ' GIMGM   ',
+            '  GGM    ',
+            '  BGIE   ',
+            ' B  G    ',
+            'B        ',
+        ], 
+        {
+            E: 'mysticalagradditions:creative_essence',
+            B:  'mysticalagradditions:insanium_block',
+            G: 'mysticalagradditions:insanium_gemstone_block',
+            I: 'mysticalagradditions:insanium_essence',
+            M: 'mysticalagradditions:insanium_ingot_block',
+        }
+    )
+    //creative capacitor
+    event.recipes.extendedcrafting.shaped_table(
+        'immersiveengineering:capacitor_creative',
+        [
+            'TTTTTTTTT',
+            'TTTTTTTTT',
+            'BEEBEBEEB',
+            'BBBBBBBBB',
+            'UUUUSUUUU',
+            'BBBBBBBBB',
+            'BEEBEBEEB',
+            'TTTTTTTTT',
+            'TTTTTTTTT',
+        ], 
+        {
+            T: 'immersiveengineering:treated_wood_horizontal',
+            U:  'extendedcrafting:the_ultimate_block',
+            E: 'mysticalagradditions:creative_essence',
+            B: 'extendedcrafting:black_iron_block',
+            S: 'extendedcrafting:ultimate_singularity',
+        }
+    )
     
+    //creative motor
+    event.recipes.extendedcrafting.shaped_table(
+        'create:creative_motor',
+        [
+            'HHHHHHHHH',
+            'UBUUBBBBU',
+            'UBUUBBBBU',
+            'UBUEEEBBU',
+            'UBUESEBBU',
+            'UBUEEEBBU',
+            'UBUUBBBBU',
+            'UBUUBBBBU',
+            'HHHHHHHHH',
+        ], 
+        {
+            H: 'create:shaft',
+            U:  'extendedcrafting:the_ultimate_block',
+            E: 'mysticalagradditions:creative_essence',
+            B: 'extendedcrafting:black_iron_block',
+            S: 'extendedcrafting:ultimate_singularity',
+        }
+    )
+
+    //creative energy cell
+    event.recipes.extendedcrafting.shaped_table(
+        'appliedenergistics2:creative_energy_cell',
+        [
+            'BBBBBBBBB',
+            'BUUUBUUUB',
+            'BUEUBUEUB',
+            'BUUUBUUUB',
+            'BBBBSBBBB',
+            'BUUUBUUUB',
+            'BUEUBUEUB',
+            'BUUUBUUUB',
+            'BBBBBBBBB',
+        ], 
+        {
+            U:  'extendedcrafting:the_ultimate_block',
+            E: 'mysticalagradditions:creative_essence',
+            B: 'extendedcrafting:black_iron_block',
+            S: 'extendedcrafting:ultimate_singularity',
+        }
+    )
+
+    //creative storage cell
+    event.recipes.extendedcrafting.shaped_table(
+        'appliedenergistics2:creative_storage_cell',
+        [
+            'HHHHHHHHH',
+            'HUUUUUUUH',
+            'HUECECEUH',
+            'HUCEEECUH',
+            'HUEESEEUH',
+            'HUCEEECUH',
+            'HUECECEUH',
+            'HUUUUUUUH',
+            'HHHHHHHHH',
+        ], 
+        {
+            H: 'industrialforegoing:supreme_black_hole_unit',
+            U:  'extendedcrafting:the_ultimate_block',
+            E: 'mysticalagradditions:creative_essence',
+            S: 'extendedcrafting:ultimate_singularity',
+            C: 'appliedenergistics2:creative_energy_cell',
+        }
+    )
+
+    //creative essence
+    event.custom(
+        {
+            "type": "create:mixing",
+            "ingredients": [
+              {
+                "item": "mysticalagradditions:insanium_essence"
+              },
+              {
+                "item": "extendedcrafting:the_ultimate_block"
+              },
+              {
+                "fluid": "kubejs:molten_insanium_essence",
+                "nbt": {},
+                "amount": 1000
+              }
+            ],
+            "results": [
+              {
+                "item": "mysticalagradditions:creative_essence"
+              }
+            ]
+        }
+    )
+    //molten insanium essence
+    event.custom(
+        {
+            "type": "create:mixing",
+            "ingredients": [
+              {
+                "item": "mysticalagradditions:insanium_essence",
+              },
+              {
+                "item": "mysticalagradditions:insanium_ingot",
+              },
+              {
+                "item": "mysticalagradditions:insanium_gemstone",
+              },
+              {
+                "fluid": "industrialforegoing:biofuel",
+                "amount": 250
+              },
+              {
+                "fluid": "tconstruct:molten_manyullyn",
+                "amount": 250
+              },
+            ],
+            "results": [
+                {
+                    "fluid": "kubejs:molten_insanium_essence",
+                    "amount": 1000
+                }
+            ],
+            "heatRequirement": "superheated"
+          }
+    )
+    
+    //creative vending
+    let inputCreativeVendingShapeless = [
+        'upgradednetherite_creative:creative_upgraded_netherite_ingot', 
+        'extendedcrafting:the_ultimate_ingot', 'pipez:infinity_upgrade', 
+        'powah:energy_cell_creative', 
+        'storagedrawers:creative_storage_upgrade', 
+        'refinedstorage:creative_controller', 
+        'refinedstorage:creative_fluid_storage_block', 
+        'refinedstorage:creative_storage_block', 
+        'refinedstorage:creative_fluid_storage_disk',
+        'refinedstorage:creative_storage_disk',
+        'mysticalagriculture:creative_soulium_dagger', 
+        'mysticalagradditions:creative_essence', 
+        'immersiveengineering:capacitor_creative', 
+        'create:creative_motor', 
+        'appliedenergistics2:creative_storage_cell', 
+        'appliedenergistics2:creative_energy_cell',
+    ];
+    event.recipes.extendedcrafting.shapeless_table('storagedrawers:creative_vending_upgrade', inputCreativeVendingShapeless)
   })

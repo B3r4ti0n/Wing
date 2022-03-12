@@ -1,168 +1,192 @@
-[17:55:44] [INFO] SourceFile:18: Loaded script server_scripts:extendedCrafting.js in 0.0 s
-[17:55:44] [INFO] SourceFile:18: Loaded script server_scripts:craftCustom.js in 0.0 s
-[17:55:44] [INFO] SourceFile:18: Loaded script server_scripts:script.js in 0.001 s
-[17:55:44] [INFO] SourceFile:18: Loaded script server_scripts:tags.js in 0.0 s
-[17:55:44] [INFO] SourceFile:18: Loaded 4/4 KubeJS server scripts in 0.004 s
-[17:55:44] [INFO] Scripts loaded
-[17:55:44] [INFO] Scanning recipes...
-[17:55:46] [INFO] [blocks] Found 533 tags, added 0 objects, removed 0 objects
-[17:55:46] [INFO] [items] Found 1025 tags, added 0 objects, removed 0 objects
-[17:55:46] [INFO] [fluids] Found 128 tags, added 0 objects, removed 0 objects
-[17:55:46] [INFO] [entity_types] Found 25 tags, added 0 objects, removed 0 objects
-[17:55:46] [INFO] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
-[17:55:46] [INFO] [potions] Found 0 tags, added 0 objects, removed 0 objects
-[17:55:46] [INFO] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
-[17:55:46] [INFO] [tile_entity_types] Found 4 tags, added 0 objects, removed 0 objects
-[17:55:46] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/nickel/block[tconstruct:casting_basin]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
-[17:55:46] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/copper/plate_gold_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
-[17:55:46] [WARN] Failed to parse recipe 'colossal_battery:cube_to_inner_mek_ultimate[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:ultimate_energy_cube'
-[17:55:46] [WARN] Failed to parse recipe colossal_battery:cube_to_inner_mek_ultimate[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:ultimate_energy_cube'
-[17:55:46] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/nickel/plate_sand_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
-[17:55:46] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/lead/block[tconstruct:casting_basin]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
-[17:55:46] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/silver/block[tconstruct:casting_basin]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
-[17:55:46] [WARN] Failed to parse recipe 'ae2wtlib:wireless_universal_terminal/upgrade_pattern[ae2wtlib:upgrade]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: ae2wtlib:upgrade
-[17:55:46] [WARN] Failed to parse recipe ae2wtlib:wireless_universal_terminal/upgrade_pattern[ae2wtlib:upgrade]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'ae2wtlib:upgrade'
-[17:55:46] [WARN] Failed to parse recipe ae2wtlib:wireless_universal_terminal/ip[ae2wtlib:combine]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'ae2wtlib:combine'
-[17:55:46] [WARN] Failed to parse recipe 'ae2wtlib:wireless_universal_terminal/ip[ae2wtlib:combine]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: ae2wtlib:combine
-[17:55:46] [WARN] Failed to parse recipe 'ae2wtlib:wireless_universal_terminal/ci[ae2wtlib:combine]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: ae2wtlib:combine
-[17:55:46] [WARN] Failed to parse recipe ae2wtlib:wireless_universal_terminal/ci[ae2wtlib:combine]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'ae2wtlib:combine'
-[17:55:46] [WARN] Failed to parse recipe ae2wtlib:wireless_universal_terminal/cp[ae2wtlib:combine]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'ae2wtlib:combine'
-[17:55:46] [WARN] Failed to parse recipe 'ae2wtlib:wireless_universal_terminal/cp[ae2wtlib:combine]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: ae2wtlib:combine
-[17:55:46] [WARN] Failed to parse recipe 'colossal_battery:cube_to_wall_mek_ultimate[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:ultimate_energy_cube'
-[17:55:46] [WARN] Failed to parse recipe colossal_battery:cube_to_wall_mek_ultimate[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:ultimate_energy_cube'
-[17:55:46] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/copper/plate_sand_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
-[17:55:46] [WARN] Failed to parse recipe 'colossal_battery:battery_wall_mek_advanced[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:alloys/advanced'
-[17:55:46] [WARN] Failed to parse recipe colossal_battery:battery_wall_mek_advanced[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:alloys/advanced'
-[17:55:46] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/silver/plate_gold_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
-[17:55:46] [WARN] Failed to parse recipe colossal_battery:battery_inner_mek_basic[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:structural_glass'
-[17:55:46] [WARN] Failed to parse recipe 'colossal_battery:battery_inner_mek_basic[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:structural_glass'
-[17:55:46] [WARN] Failed to parse recipe 'colossal_battery:battery_inner_mek_ultimate[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:alloys/ultimate'
-[17:55:46] [WARN] Failed to parse recipe colossal_battery:battery_inner_mek_ultimate[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:alloys/ultimate'
-[17:55:46] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/lead/plate_gold_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
-[17:55:46] [WARN] Failed to parse recipe 'colossal_battery:cube_to_wall_mek_basic[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:basic_energy_cube'
-[17:55:46] [WARN] Failed to parse recipe colossal_battery:cube_to_wall_mek_basic[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:basic_energy_cube'
-[17:55:46] [WARN] Failed to parse recipe 'colossal_battery:cube_to_inner_mek_advanced[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:advanced_energy_cube'
-[17:55:46] [WARN] Failed to parse recipe colossal_battery:cube_to_inner_mek_advanced[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:advanced_energy_cube'
-[17:55:46] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/silver/plate_sand_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
-[17:55:46] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/nickel/ingot_gold_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
-[17:55:46] [WARN] Failed to parse recipe 'colossal_battery:battery_wall_mek_basic[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:steel_casing'
-[17:55:46] [WARN] Failed to parse recipe colossal_battery:battery_wall_mek_basic[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:steel_casing'
-[17:55:46] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/silver/ingot_sand_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
-[17:55:46] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/lead/ingot_gold_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
-[17:55:46] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/nickel/plate_gold_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
-[17:55:46] [WARN] Failed to parse recipe 'colossal_battery:cube_to_inner_mek_elite[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:elite_energy_cube'
-[17:55:46] [WARN] Failed to parse recipe colossal_battery:cube_to_inner_mek_elite[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:elite_energy_cube'
-[17:55:46] [WARN] Failed to parse recipe 'ae2wtlib:wireless_universal_terminal/upgrade_interface[ae2wtlib:upgrade]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: ae2wtlib:upgrade
-[17:55:46] [WARN] Failed to parse recipe ae2wtlib:wireless_universal_terminal/upgrade_interface[ae2wtlib:upgrade]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'ae2wtlib:upgrade'
-[17:55:46] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/copper/ingot_sand_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
-[17:55:46] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/copper/ingot_gold_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
-[17:55:46] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/nickel/ingot_sand_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
-[17:55:46] [WARN] Failed to parse recipe 'colossal_battery:battery_inner_mek_elite[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:alloys/elite'
-[17:55:46] [WARN] Failed to parse recipe colossal_battery:battery_inner_mek_elite[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:alloys/elite'
-[17:55:46] [WARN] Failed to parse recipe 'mysticalagriculture:essence/quark/marble[cucumber:shaped_no_mirror]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:marble'
-[17:55:46] [WARN] Failed to parse recipe mysticalagriculture:essence/quark/marble[cucumber:shaped_no_mirror]: com.google.gson.JsonSyntaxException: Unknown item 'quark:marble'
-[17:55:46] [WARN] Failed to parse recipe 'colossal_battery:battery_wall_mek_elite[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:alloys/elite'
-[17:55:46] [WARN] Failed to parse recipe colossal_battery:battery_wall_mek_elite[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:alloys/elite'
-[17:55:46] [WARN] Failed to parse recipe 'ae2wtlib:wireless_universal_terminal/upgrade_crafting[ae2wtlib:upgrade]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: ae2wtlib:upgrade
-[17:55:46] [WARN] Failed to parse recipe ae2wtlib:wireless_universal_terminal/upgrade_crafting[ae2wtlib:upgrade]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'ae2wtlib:upgrade'
-[17:55:46] [WARN] Failed to parse recipe 'colossal_battery:cube_to_inner_mek_basic[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:basic_energy_cube'
-[17:55:46] [WARN] Failed to parse recipe colossal_battery:cube_to_inner_mek_basic[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:basic_energy_cube'
-[17:55:46] [WARN] Failed to parse recipe 'colossal_battery:cube_to_wall_mek_elite[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:elite_energy_cube'
-[17:55:46] [WARN] Failed to parse recipe colossal_battery:cube_to_wall_mek_elite[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:elite_energy_cube'
-[17:55:46] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/copper/block[tconstruct:casting_basin]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
-[17:55:46] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/lead/plate_sand_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
-[17:55:46] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/lead/ingot_sand_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
-[17:55:46] [WARN] Failed to parse recipe 'colossal_battery:battery_wall_mek_ultimate[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:alloys/ultimate'
-[17:55:46] [WARN] Failed to parse recipe colossal_battery:battery_wall_mek_ultimate[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:alloys/ultimate'
-[17:55:46] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/silver/ingot_gold_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
-[17:55:46] [WARN] Failed to parse recipe 'colossal_battery:cube_to_wall_mek_advanced[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:advanced_energy_cube'
-[17:55:46] [WARN] Failed to parse recipe colossal_battery:cube_to_wall_mek_advanced[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:advanced_energy_cube'
-[17:55:46] [WARN] Failed to parse recipe 'colossal_battery:battery_inner_mek_advanced[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:alloys/advanced'
-[17:55:46] [WARN] Failed to parse recipe colossal_battery:battery_inner_mek_advanced[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:alloys/advanced'
-[17:55:46] [INFO] Found 10123 recipes and 20 failed recipes in 167.5 ms
-[17:55:46] [INFO] server_scripts:extendedCrafting.js:65: + minecraft:smithing: ['pipez:ultimate_upgrade', 'extendedcrafting:the_ultimate_ingot'] -> ['pipez:infinity_upgrade']
-[17:55:46] [INFO] server_scripts:extendedCrafting.js:40: + extendedcrafting:shaped_table: ['powah:nitro_crystal_block', 'mysticalagradditions:creative_essence', 'extendedcrafting:the_ultimate_block', 'powah:energizing_rod_nitro', 'powah:ender_cell_nitro', 'powah:energy_cell_nitro', 'extendedcrafting:ultimate_singularity'] -> ['powah:energy_cell_creative']
-[17:55:46] [INFO] server_scripts:extendedCrafting.js:121: + extendedcrafting:shapeless_table: ['tconstruct:hepatizon_ingot', 'blue_skies:horizonite_ingot', 'extendedcrafting:black_iron_ingot', 'extendedcrafting:crystaltine_ingot', 'betterendforge:terminite_ingot', 'betterendforge:aeternium_ingot', 'blue_skies:ventium_ingot', 'betterendforge:thallasium_ingot', 'thermal:enderium_ingot', 'tconstruct:queens_slime_ingot', 'immersiveengineering:ingot_aluminum', 'ftbjarmod:cast_iron_ingot', 'thermal:tin_ingot', 'thermal:lumium_ingot', 'immersiveengineering:ingot_uranium', 'tconstruct:slimesteel_ingot', 'blue_skies:falsite_ingot', 'create:brass_ingot', 'tconstruct:manyullyn_ingot', 'immersiveengineering:ingot_constantan', 'create:copper_ingot', 'thermal:silver_ingot', 'minecraft:netherite_ingot', 'mysticalagriculture:soulium_ingot', 'minecraft:gold_ingot', 'minecraft:iron_ingot', 'mysticalagriculture:prosperity_ingot', 'immersiveengineering:ingot_hop_graphite', 'extendedcrafting:redstone_ingot', 'extendedcrafting:enhanced_ender_ingot', 'extendedcrafting:ender_ingot', 'tconstruct:pig_iron_ingot', 'thermal:constantan_ingot', 'thermal:invar_ingot', 'mysticalagradditions:insanium_ingot', 'mysticalagriculture:tertium_ingot', 'thermal:signalum_ingot', 'tconstruct:rose_gold_ingot', 'mysticalagriculture:prudentium_ingot', 'thermal:nickel_ingot', 'mysticalagriculture:supremium_ingot', 'tconstruct:cobalt_ingot', 'immersiveengineering:ingot_steel', 'immersiveengineering:ingot_electrum', 'mysticalagriculture:inferium_ingot', 'thermal:bronze_ingot', 'industrialforegoing:pink_slime_ingot', 'tconstruct:tinkers_bronze_ingot', 'thermal:lead_ingot', 'thermal:electrum_ingot'] -> ['50x extendedcrafting:the_ultimate_ingot']
-[17:55:46] [INFO] server_scripts:extendedCrafting.js:124: + minecraft:smithing: ['storagedrawers:emerald_storage_upgrade', 'mysticalagradditions:creative_essence'] -> ['storagedrawers:creative_storage_upgrade']
-[17:55:46] [INFO] server_scripts:extendedCrafting.js:127: + tconstruct:casting_table: [] -> []
-[17:55:46] [INFO] server_scripts:script.js:116: - immersiveengineering:crafting/ingot_copper_to_storage_copper[minecraft:crafting_shaped]: ['#forge:ingots/copper', 'immersiveengineering:ingot_copper'] -> ['immersiveengineering:storage_copper']
-[17:55:46] [INFO] server_scripts:script.js:117: - thermal:storage/copper_block[minecraft:crafting_shaped]: ['thermal:copper_ingot', '#forge:ingots/copper'] -> ['thermal:copper_block']
-[17:55:46] [INFO] server_scripts:script.js:118: - tconstruct:common/materials/copper_block_from_ingots[minecraft:crafting_shaped]: ['#forge:ingots/copper', 'tconstruct:copper_ingot'] -> ['tconstruct:copper_block']
-[17:55:46] [INFO] server_scripts:script.js:119: - create:crafting/materials/copper_block_from_compacting[minecraft:crafting_shaped]: ['#forge:ingots/copper'] -> ['create:copper_block']
-[17:55:46] [INFO] server_scripts:script.js:120: - immersiveengineering:arcfurnace/dust_copper[immersiveengineering:arc_furnace]: [] -> []
-[17:55:46] [INFO] server_scripts:script.js:123: + minecraft:smelting: ['exnihilosequentia:chunk_copper'] -> ['thermal:copper_ingot']
-[17:55:46] [INFO] server_scripts:script.js:10: - create:crushing/copper_ore[create:crushing]: [] -> []
-[17:55:46] [INFO] server_scripts:script.js:10: - immersiveengineering:crafting/ingot_copper[minecraft:smelting]: ['immersiveengineering:ore_copper'] -> ['immersiveengineering:ingot_copper']
-[17:55:46] [INFO] server_scripts:script.js:10: - create:blasting/copper_ingot_from_ore[minecraft:blasting]: ['#forge:ores/copper'] -> ['create:copper_ingot']
-[17:55:46] [INFO] server_scripts:script.js:10: - thermal:smelting/copper_ingot_from_ore_blasting[minecraft:blasting]: ['thermal:copper_ore'] -> ['thermal:copper_ingot']
-[17:55:46] [INFO] server_scripts:script.js:10: - tconstruct:smeltery/melting/metal/copper/ore[tconstruct:ore_melting]: [] -> []
-[17:55:46] [INFO] server_scripts:script.js:10: - exnihilosequentia:ens_ingot_copper_blast[minecraft:blasting]: ['exnihilosequentia:chunk_copper'] -> ['exnihilosequentia:ingot_copper']
-[17:55:46] [INFO] server_scripts:script.js:10: - tconstruct:common/materials/copper_ingot_blasting[minecraft:blasting]: ['tconstruct:copper_ore'] -> ['tconstruct:copper_ingot']
-[17:55:46] [INFO] server_scripts:script.js:10: - immersiveengineering:crafting/ingot_copper_from_blasting[minecraft:blasting]: ['immersiveengineering:ore_copper'] -> ['immersiveengineering:ingot_copper']
-[17:55:46] [INFO] server_scripts:script.js:10: - thermal:smelting/copper_ingot_from_ore_smelting[minecraft:smelting]: ['thermal:copper_ore'] -> ['thermal:copper_ingot']
-[17:55:46] [INFO] server_scripts:script.js:10: - create:milling/copper_ore[create:milling]: [] -> []
-[17:55:46] [INFO] server_scripts:script.js:10: - exnihilosequentia:ens_ingot_copper[minecraft:smelting]: ['exnihilosequentia:chunk_copper'] -> ['exnihilosequentia:ingot_copper']
-[17:55:46] [INFO] server_scripts:script.js:10: - create:smelting/copper_ingot_from_ore[minecraft:smelting]: ['#forge:ores/copper'] -> ['create:copper_ingot']
-[17:55:46] [INFO] server_scripts:script.js:10: - tconstruct:common/materials/copper_ingot_smelting[minecraft:smelting]: ['tconstruct:copper_ore'] -> ['tconstruct:copper_ingot']
-[17:55:46] [INFO] server_scripts:script.js:10: - immersiveengineering:crafting/hammercrushing_copper[immersiveengineering:hammer_crushing]: ['#forge:ores/copper'] -> ['thermal:copper_dust']
-[17:55:46] [INFO] server_scripts:script.js:12: - immersiveengineering:arcfurnace/ore_copper[immersiveengineering:arc_furnace]: [] -> []
-[17:55:46] [INFO] server_scripts:script.js:15: - immersiveengineering:crusher/ore_copper[immersiveengineering:crusher]: [] -> []
-[17:55:46] [INFO] server_scripts:script.js:18: - thermal:machine/pulverizer/pulverizer_copper_ore[thermal:pulverizer]: [] -> []
-[17:55:46] [INFO] server_scripts:script.js:21: - thermal:machine/smelter/smelter_copper_ore[thermal:smelter]: [] -> []
-[17:55:46] [INFO] server_scripts:script.js:26: + minecraft:smelting: ['thermal:copper_ore'] -> ['create:copper_ingot']
-[17:55:46] [INFO] server_scripts:script.js:29: + minecraft:blasting: ['thermal:copper_ore'] -> ['create:copper_ingot']
-[17:55:46] [INFO] server_scripts:script.js:32: + create:crushing: [] -> []
-[17:55:46] [INFO] server_scripts:script.js:72: + thermal:pulverizer: [] -> []
-[17:55:46] [INFO] server_scripts:script.js:95: + tconstruct:ore_melting: [] -> []
-[17:55:46] [INFO] server_scripts:script.js:49: + thermal:smelter: [] -> []
-[17:55:46] [INFO] server_scripts:script.js:129: - immersiveengineering:crafting/ingot_lead_to_storage_lead[minecraft:crafting_shaped]: ['#forge:ingots/lead', 'immersiveengineering:ingot_lead'] -> ['immersiveengineering:storage_lead']
-[17:55:46] [INFO] server_scripts:script.js:130: - thermal:storage/lead_block[minecraft:crafting_shaped]: ['thermal:lead_ingot', '#forge:ingots/lead'] -> ['thermal:lead_block']
-[17:55:46] [INFO] server_scripts:script.js:131: + kubejs:shapeless: ['minecraft:stone', '#forge:dusts/glowstone'] -> ['4x minecraft:cobblestone']
-[17:55:46] [INFO] server_scripts:script.js:134: + minecraft:smelting: ['exnihilosequentia:chunk_lead'] -> ['thermal:lead_ingot']
-[17:55:46] [INFO] server_scripts:script.js:10: - create:milling/lead_ore[create:milling]: [] -> []
-[17:55:46] [INFO] server_scripts:script.js:10: - immersiveengineering:crafting/ingot_lead_from_blasting[minecraft:blasting]: ['immersiveengineering:ore_lead'] -> ['immersiveengineering:ingot_lead']
-[17:55:46] [INFO] server_scripts:script.js:10: - exnihilosequentia:ens_ingot_lead[minecraft:smelting]: ['exnihilosequentia:chunk_lead'] -> ['exnihilosequentia:ingot_lead']
-[17:55:46] [INFO] server_scripts:script.js:10: - thermal:smelting/lead_ingot_from_ore_smelting[minecraft:smelting]: ['thermal:lead_ore'] -> ['thermal:lead_ingot']
-[17:55:46] [INFO] server_scripts:script.js:10: - exnihilosequentia:ens_ingot_lead_blast[minecraft:blasting]: ['exnihilosequentia:chunk_lead'] -> ['exnihilosequentia:ingot_lead']
-[17:55:46] [INFO] server_scripts:script.js:10: - immersiveengineering:crafting/ingot_lead[minecraft:smelting]: ['immersiveengineering:ore_lead'] -> ['immersiveengineering:ingot_lead']
-[17:55:46] [INFO] server_scripts:script.js:10: - immersiveengineering:crafting/hammercrushing_lead[immersiveengineering:hammer_crushing]: ['#forge:ores/lead'] -> ['thermal:lead_dust']
-[17:55:47] [INFO] server_scripts:script.js:10: - create:crushing/lead_ore[create:crushing]: [] -> []
-[17:55:47] [INFO] server_scripts:script.js:10: - tconstruct:smeltery/melting/metal/lead/ore[tconstruct:ore_melting]: [] -> []
-[17:55:47] [INFO] server_scripts:script.js:10: - thermal:smelting/lead_ingot_from_ore_blasting[minecraft:blasting]: ['thermal:lead_ore'] -> ['thermal:lead_ingot']
-[17:55:47] [INFO] server_scripts:script.js:12: - immersiveengineering:arcfurnace/ore_lead[immersiveengineering:arc_furnace]: [] -> []
-[17:55:47] [INFO] server_scripts:script.js:15: - immersiveengineering:crusher/ore_lead[immersiveengineering:crusher]: [] -> []
-[17:55:47] [INFO] server_scripts:script.js:18: - thermal:machine/pulverizer/pulverizer_lead_ore[thermal:pulverizer]: [] -> []
-[17:55:47] [INFO] server_scripts:script.js:21: - thermal:machine/smelter/smelter_lead_ore[thermal:smelter]: [] -> []
-[17:55:47] [INFO] server_scripts:script.js:26: + minecraft:smelting: ['thermal:lead_ore'] -> ['thermal:lead_ingot']
-[17:55:47] [INFO] server_scripts:script.js:29: + minecraft:blasting: ['thermal:lead_ore'] -> ['thermal:lead_ingot']
-[17:55:47] [INFO] server_scripts:script.js:32: + create:crushing: [] -> []
-[17:55:47] [INFO] server_scripts:script.js:49: + thermal:smelter: [] -> []
-[17:55:47] [INFO] server_scripts:script.js:95: + tconstruct:ore_melting: [] -> []
-[17:55:47] [INFO] server_scripts:script.js:138: + kubejs:shapeless: ['9x create:copper_ingot'] -> ['thermal:copper_block']
-[17:55:47] [INFO] server_scripts:script.js:72: + thermal:pulverizer: [] -> []
-[17:55:47] [INFO] server_scripts:script.js:140: - immersiveengineering:crafting/ingot_silver_to_storage_silver[minecraft:crafting_shaped]: ['#forge:ingots/silver', 'immersiveengineering:ingot_silver'] -> ['immersiveengineering:storage_silver']
-[17:55:47] [INFO] server_scripts:script.js:141: - thermal:storage/silver_block[minecraft:crafting_shaped]: ['thermal:silver_ingot', '#forge:ingots/silver'] -> ['thermal:silver_block']
-[17:55:47] [INFO] server_scripts:script.js:144: + minecraft:smelting: ['exnihilosequentia:chunk_silver'] -> ['thermal:silver_ingot']
-[17:55:47] [INFO] server_scripts:script.js:29: + minecraft:blasting: ['thermal:silver_ore'] -> ['thermal:silver_ingot']
-[17:55:47] [INFO] server_scripts:script.js:26: + minecraft:smelting: ['thermal:silver_ore'] -> ['thermal:silver_ingot']
-[17:55:47] [INFO] server_scripts:script.js:49: + thermal:smelter: [] -> []
-[17:55:47] [INFO] server_scripts:script.js:32: + create:crushing: [] -> []
-[17:55:47] [INFO] server_scripts:script.js:72: + thermal:pulverizer: [] -> []
-[17:55:47] [INFO] server_scripts:script.js:148: - immersiveengineering:crafting/ingot_nickel_to_storage_nickel[minecraft:crafting_shaped]: ['#forge:ingots/nickel', 'immersiveengineering:ingot_nickel'] -> ['immersiveengineering:storage_nickel']
-[17:55:47] [INFO] server_scripts:script.js:95: + tconstruct:ore_melting: [] -> []
-[17:55:47] [INFO] server_scripts:script.js:149: - thermal:storage/nickel_block[minecraft:crafting_shaped]: ['thermal:nickel_ingot', '#forge:ingots/nickel'] -> ['thermal:nickel_block']
-[17:55:47] [INFO] server_scripts:script.js:153: + minecraft:smelting: ['exnihilosequentia:chunk_nickel'] -> ['thermal:nickel_ingot']
-[17:55:47] [INFO] server_scripts:script.js:29: + minecraft:blasting: ['thermal:nickel_ore'] -> ['thermal:nickel_ingot']
-[17:55:47] [INFO] server_scripts:script.js:26: + minecraft:smelting: ['thermal:nickel_ore'] -> ['thermal:nickel_ingot']
-[17:55:47] [INFO] server_scripts:script.js:49: + thermal:smelter: [] -> []
-[17:55:47] [INFO] server_scripts:script.js:72: + thermal:pulverizer: [] -> []
-[17:55:47] [INFO] server_scripts:script.js:32: + create:crushing: [] -> []
-[17:55:47] [INFO] server_scripts:script.js:95: + tconstruct:ore_melting: [] -> []
-[17:55:47] [INFO] Posted recipe events in 136.0 ms
-[17:55:47] [WARN] Error parsing recipe immersivepetroleum:hydrotreater/sulfur_recovery[immersivepetroleum:hydrotreater]: {"type":"immersivepetroleum:hydrotreater","time":1,"energy":512,"result":{"fluid":"immersivepetroleum:diesel","amount":7},"input":{"tag":"forge:diesel_sulfur","amount":7},"secondary_input":{"tag":"minecraft:water","amount":7},"secondary_result":{"item":"immersiveengineering:dust_sulfur"}}: java.lang.IllegalArgumentException: Unexpected json object.
-[17:55:47] [WARN] Error parsing recipe immersivepetroleum:distillationtower/oilcracking[immersivepetroleum:distillation]: {"type":"immersivepetroleum:distillation","byproducts":[{"item":"immersivepetroleum:bitumen"}],"results":[{"fluid":"immersivepetroleum:lubricant","amount":9},{"fluid":"immersivepetroleum:diesel_sulfur","amount":14},{"fluid":"immersivepetroleum:gasoline","amount":39}],"input":{"tag":"forge:crude_oil","amount":75},"time":1,"energy":2048}: java.lang.IllegalArgumentException: Unexpected json object.
-[17:55:47] [INFO] Modified & removed recipes in 106.3 ms
-[17:55:47] [WARN] Error creating recipe tconstruct:kjs_5f4q5qgley01i4q0dw8d1kbmx[tconstruct:casting_table]: {"type":"tconstruct:casting_table","cast":{"tag":"tconstruct:casts/multi_use/gem"},"fluid":{"tag":"kubejs:molten_creative_essence","amount":1000},"result":{"item":"tconstruct:creative_slot","count":1,"nbt":"{slot:\"souls\"}"},"cooling_time":79}: com.google.gson.JsonSyntaxException: Unknown fluid tag 'kubejs:molten_creative_essence'
-[17:55:47] [INFO] Added recipes in 814.9 μs
-[17:55:47] [INFO] Added 31 recipes, removed 43 recipes, modified 0 recipes, with 3 failed recipes and 20 fall-backed recipes
-[17:55:48] [INFO] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[21:54:29] [INFO] SourceFile:18: Loaded script server_scripts:creativerite.js in 0.0 s
+[21:54:29] [INFO] SourceFile:18: Loaded script server_scripts:extendedCrafting.js in 0.001 s
+[21:54:29] [INFO] SourceFile:18: Loaded script server_scripts:script.js in 0.001 s
+[21:54:29] [INFO] SourceFile:18: Loaded 3/3 KubeJS server scripts in 0.004 s
+[21:54:29] [INFO] Scripts loaded
+[21:54:29] [INFO] Scanning recipes...
+[21:54:31] [INFO] [blocks] Found 533 tags, added 0 objects, removed 0 objects
+[21:54:31] [INFO] [items] Found 1041 tags, added 0 objects, removed 0 objects
+[21:54:31] [INFO] [fluids] Found 128 tags, added 0 objects, removed 0 objects
+[21:54:31] [INFO] [entity_types] Found 25 tags, added 0 objects, removed 0 objects
+[21:54:31] [INFO] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
+[21:54:31] [INFO] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[21:54:31] [INFO] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[21:54:31] [INFO] [tile_entity_types] Found 4 tags, added 0 objects, removed 0 objects
+[21:54:31] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/nickel/block[tconstruct:casting_basin]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
+[21:54:31] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/copper/plate_gold_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
+[21:54:31] [WARN] Failed to parse recipe 'colossal_battery:cube_to_inner_mek_ultimate[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:ultimate_energy_cube'
+[21:54:31] [WARN] Failed to parse recipe colossal_battery:cube_to_inner_mek_ultimate[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:ultimate_energy_cube'
+[21:54:31] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/nickel/plate_sand_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
+[21:54:31] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/lead/block[tconstruct:casting_basin]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
+[21:54:31] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/silver/block[tconstruct:casting_basin]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
+[21:54:31] [WARN] Failed to parse recipe 'ae2wtlib:wireless_universal_terminal/upgrade_pattern[ae2wtlib:upgrade]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: ae2wtlib:upgrade
+[21:54:31] [WARN] Failed to parse recipe ae2wtlib:wireless_universal_terminal/upgrade_pattern[ae2wtlib:upgrade]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'ae2wtlib:upgrade'
+[21:54:31] [WARN] Failed to parse recipe 'ae2wtlib:wireless_universal_terminal/ip[ae2wtlib:combine]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: ae2wtlib:combine
+[21:54:31] [WARN] Failed to parse recipe ae2wtlib:wireless_universal_terminal/ip[ae2wtlib:combine]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'ae2wtlib:combine'
+[21:54:31] [WARN] Failed to parse recipe ae2wtlib:wireless_universal_terminal/ci[ae2wtlib:combine]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'ae2wtlib:combine'
+[21:54:31] [WARN] Failed to parse recipe 'ae2wtlib:wireless_universal_terminal/ci[ae2wtlib:combine]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: ae2wtlib:combine
+[21:54:31] [WARN] Failed to parse recipe 'ae2wtlib:wireless_universal_terminal/cp[ae2wtlib:combine]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: ae2wtlib:combine
+[21:54:31] [WARN] Failed to parse recipe ae2wtlib:wireless_universal_terminal/cp[ae2wtlib:combine]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'ae2wtlib:combine'
+[21:54:31] [WARN] Failed to parse recipe 'colossal_battery:cube_to_wall_mek_ultimate[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:ultimate_energy_cube'
+[21:54:31] [WARN] Failed to parse recipe colossal_battery:cube_to_wall_mek_ultimate[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:ultimate_energy_cube'
+[21:54:31] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/copper/plate_sand_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
+[21:54:31] [WARN] Failed to parse recipe 'colossal_battery:battery_wall_mek_advanced[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:alloys/advanced'
+[21:54:31] [WARN] Failed to parse recipe colossal_battery:battery_wall_mek_advanced[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:alloys/advanced'
+[21:54:31] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/silver/plate_gold_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
+[21:54:32] [WARN] Failed to parse recipe 'colossal_battery:battery_inner_mek_basic[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:structural_glass'
+[21:54:32] [WARN] Failed to parse recipe colossal_battery:battery_inner_mek_basic[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:structural_glass'
+[21:54:32] [WARN] Failed to parse recipe 'colossal_battery:battery_inner_mek_ultimate[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:alloys/ultimate'
+[21:54:32] [WARN] Failed to parse recipe colossal_battery:battery_inner_mek_ultimate[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:alloys/ultimate'
+[21:54:32] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/lead/plate_gold_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
+[21:54:32] [WARN] Failed to parse recipe 'colossal_battery:cube_to_wall_mek_basic[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:basic_energy_cube'
+[21:54:32] [WARN] Failed to parse recipe colossal_battery:cube_to_wall_mek_basic[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:basic_energy_cube'
+[21:54:32] [WARN] Failed to parse recipe 'colossal_battery:cube_to_inner_mek_advanced[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:advanced_energy_cube'
+[21:54:32] [WARN] Failed to parse recipe colossal_battery:cube_to_inner_mek_advanced[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:advanced_energy_cube'
+[21:54:32] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/silver/plate_sand_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
+[21:54:32] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/nickel/ingot_gold_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
+[21:54:32] [WARN] Failed to parse recipe 'colossal_battery:battery_wall_mek_basic[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:steel_casing'
+[21:54:32] [WARN] Failed to parse recipe colossal_battery:battery_wall_mek_basic[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:steel_casing'
+[21:54:32] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/silver/ingot_sand_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
+[21:54:32] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/lead/ingot_gold_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
+[21:54:32] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/nickel/plate_gold_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
+[21:54:32] [WARN] Failed to parse recipe 'colossal_battery:cube_to_inner_mek_elite[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:elite_energy_cube'
+[21:54:32] [WARN] Failed to parse recipe colossal_battery:cube_to_inner_mek_elite[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:elite_energy_cube'
+[21:54:32] [WARN] Failed to parse recipe 'ae2wtlib:wireless_universal_terminal/upgrade_interface[ae2wtlib:upgrade]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: ae2wtlib:upgrade
+[21:54:32] [WARN] Failed to parse recipe ae2wtlib:wireless_universal_terminal/upgrade_interface[ae2wtlib:upgrade]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'ae2wtlib:upgrade'
+[21:54:32] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/copper/ingot_sand_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
+[21:54:32] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/copper/ingot_gold_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
+[21:54:32] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/nickel/ingot_sand_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
+[21:54:32] [WARN] Failed to parse recipe 'colossal_battery:battery_inner_mek_elite[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:alloys/elite'
+[21:54:32] [WARN] Failed to parse recipe colossal_battery:battery_inner_mek_elite[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:alloys/elite'
+[21:54:32] [WARN] Failed to parse recipe mysticalagriculture:essence/quark/marble[cucumber:shaped_no_mirror]: com.google.gson.JsonSyntaxException: Unknown item 'quark:marble'
+[21:54:32] [WARN] Failed to parse recipe 'mysticalagriculture:essence/quark/marble[cucumber:shaped_no_mirror]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:marble'
+[21:54:32] [WARN] Failed to parse recipe 'colossal_battery:battery_wall_mek_elite[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:alloys/elite'
+[21:54:32] [WARN] Failed to parse recipe colossal_battery:battery_wall_mek_elite[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:alloys/elite'
+[21:54:32] [WARN] Failed to parse recipe 'ae2wtlib:wireless_universal_terminal/upgrade_crafting[ae2wtlib:upgrade]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: ae2wtlib:upgrade
+[21:54:32] [WARN] Failed to parse recipe ae2wtlib:wireless_universal_terminal/upgrade_crafting[ae2wtlib:upgrade]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'ae2wtlib:upgrade'
+[21:54:32] [WARN] Failed to parse recipe 'colossal_battery:cube_to_inner_mek_basic[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:basic_energy_cube'
+[21:54:32] [WARN] Failed to parse recipe colossal_battery:cube_to_inner_mek_basic[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:basic_energy_cube'
+[21:54:32] [WARN] Failed to parse recipe 'colossal_battery:cube_to_wall_mek_elite[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:elite_energy_cube'
+[21:54:32] [WARN] Failed to parse recipe colossal_battery:cube_to_wall_mek_elite[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:elite_energy_cube'
+[21:54:32] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/copper/block[tconstruct:casting_basin]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
+[21:54:32] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/lead/plate_sand_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
+[21:54:32] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/lead/ingot_sand_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
+[21:54:32] [WARN] Failed to parse recipe 'colossal_battery:battery_wall_mek_ultimate[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:alloys/ultimate'
+[21:54:32] [WARN] Failed to parse recipe colossal_battery:battery_wall_mek_ultimate[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:alloys/ultimate'
+[21:54:32] [WARN] Failed to parse recipe 'tconstruct:smeltery/casting/metal/silver/ingot_gold_cast[tconstruct:casting_table]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing tag, expected to find a string
+[21:54:32] [WARN] Failed to parse recipe 'colossal_battery:cube_to_wall_mek_advanced[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:advanced_energy_cube'
+[21:54:32] [WARN] Failed to parse recipe colossal_battery:cube_to_wall_mek_advanced[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'mekanism:advanced_energy_cube'
+[21:54:32] [WARN] Failed to parse recipe 'colossal_battery:battery_inner_mek_advanced[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:alloys/advanced'
+[21:54:32] [WARN] Failed to parse recipe colossal_battery:battery_inner_mek_advanced[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:alloys/advanced'
+[21:54:32] [INFO] Found 10255 recipes and 20 failed recipes in 186.5 ms
+[21:54:32] [INFO] server_scripts:creativerite.js:26: + kubejs:shapeless: ['upgradednetherite:poison_upgraded_netherite_ingot', 'upgradednetherite:phantom_upgraded_netherite_ingot', 'upgradednetherite:feather_upgraded_netherite_ingot', 'upgradednetherite:corrupt_upgraded_netherite_ingot', 'upgradednetherite:gold_upgraded_netherite_ingot', 'upgradednetherite:fire_upgraded_netherite_ingot', 'upgradednetherite:ender_upgraded_netherite_ingot', 'upgradednetherite:water_upgraded_netherite_ingot', 'upgradednetherite:wither_upgraded_netherite_ingot', 'mysticalagradditions:creative_essence'] -> ['upgradednetherite_creative:creative_upgraded_netherite_ingot']
+[21:54:32] [INFO] server_scripts:creativerite.js:46: + minecraft:smithing: [Item.of('minecraft:netherite_sword', '{Damage:0}'), 'upgradednetherite_creative:creative_upgraded_netherite_ingot'] -> ['upgradednetherite_creative:creative_upgraded_netherite_sword']
+[21:54:32] [INFO] server_scripts:creativerite.js:46: + minecraft:smithing: [Item.of('minecraft:netherite_pickaxe', '{Damage:0}'), 'upgradednetherite_creative:creative_upgraded_netherite_ingot'] -> ['upgradednetherite_creative:creative_upgraded_netherite_pickaxe']
+[21:54:32] [INFO] server_scripts:creativerite.js:46: + minecraft:smithing: [Item.of('minecraft:netherite_shovel', '{Damage:0}'), 'upgradednetherite_creative:creative_upgraded_netherite_ingot'] -> ['upgradednetherite_creative:creative_upgraded_netherite_shovel']
+[21:54:32] [INFO] server_scripts:creativerite.js:46: + minecraft:smithing: [Item.of('minecraft:netherite_axe', '{Damage:0}'), 'upgradednetherite_creative:creative_upgraded_netherite_ingot'] -> ['upgradednetherite_creative:creative_upgraded_netherite_axe']
+[21:54:32] [INFO] server_scripts:creativerite.js:46: + minecraft:smithing: [Item.of('upgradednetherite:netherite_bow', '{Damage:0}'), 'upgradednetherite_creative:creative_upgraded_netherite_ingot'] -> ['upgradednetherite_creative:creative_upgraded_netherite_bow']
+[21:54:32] [INFO] server_scripts:creativerite.js:46: + minecraft:smithing: [Item.of('upgradednetherite:netherite_crossbow', '{Damage:0}'), 'upgradednetherite_creative:creative_upgraded_netherite_ingot'] -> ['upgradednetherite_creative:creative_upgraded_netherite_crossbow']
+[21:54:32] [INFO] server_scripts:creativerite.js:46: + minecraft:smithing: [Item.of('minecraft:netherite_leggings', '{Damage:0}'), 'upgradednetherite_creative:creative_upgraded_netherite_ingot'] -> ['upgradednetherite_creative:creative_upgraded_netherite_leggings']
+[21:54:32] [INFO] server_scripts:creativerite.js:46: + minecraft:smithing: [Item.of('minecraft:netherite_helmet', '{Damage:0}'), 'upgradednetherite_creative:creative_upgraded_netherite_ingot'] -> ['upgradednetherite_creative:creative_upgraded_netherite_helmet']
+[21:54:32] [INFO] server_scripts:creativerite.js:46: + minecraft:smithing: [Item.of('minecraft:netherite_chestplate', '{Damage:0}'), 'upgradednetherite_creative:creative_upgraded_netherite_ingot'] -> ['upgradednetherite_creative:creative_upgraded_netherite_chestplate']
+[21:54:32] [INFO] server_scripts:creativerite.js:46: + minecraft:smithing: [Item.of('minecraft:netherite_boots', '{Damage:0}'), 'upgradednetherite_creative:creative_upgraded_netherite_ingot'] -> ['upgradednetherite_creative:creative_upgraded_netherite_boots']
+[21:54:32] [INFO] server_scripts:creativerite.js:46: + minecraft:smithing: [Item.of('upgradednetherite:netherite_shield', '{Damage:0}'), 'upgradednetherite_creative:creative_upgraded_netherite_ingot'] -> ['upgradednetherite_creative:creative_upgraded_netherite_shield']
+[21:54:32] [INFO] server_scripts:extendedCrafting.js:40: + extendedcrafting:shaped_table: ['powah:nitro_crystal_block', 'mysticalagradditions:creative_essence', 'extendedcrafting:the_ultimate_block', 'powah:energizing_rod_nitro', 'powah:ender_cell_nitro', 'powah:energy_cell_nitro', 'extendedcrafting:ultimate_singularity'] -> ['powah:energy_cell_creative']
+[21:54:32] [INFO] server_scripts:creativerite.js:46: + minecraft:smithing: ['upgradednetherite:netherite_horse_armor', 'upgradednetherite_creative:creative_upgraded_netherite_ingot'] -> ['upgradednetherite_creative:creative_upgraded_netherite_horse_armor']
+[21:54:32] [INFO] server_scripts:extendedCrafting.js:65: + minecraft:smithing: ['pipez:ultimate_upgrade', 'extendedcrafting:the_ultimate_ingot'] -> ['pipez:infinity_upgrade']
+[21:54:32] [INFO] server_scripts:extendedCrafting.js:121: + extendedcrafting:shapeless_table: ['tconstruct:hepatizon_ingot', 'blue_skies:horizonite_ingot', 'extendedcrafting:black_iron_ingot', 'extendedcrafting:crystaltine_ingot', 'betterendforge:terminite_ingot', 'betterendforge:aeternium_ingot', 'blue_skies:ventium_ingot', 'betterendforge:thallasium_ingot', 'thermal:enderium_ingot', 'tconstruct:queens_slime_ingot', 'immersiveengineering:ingot_aluminum', 'ftbjarmod:cast_iron_ingot', 'thermal:tin_ingot', 'thermal:lumium_ingot', 'immersiveengineering:ingot_uranium', 'tconstruct:slimesteel_ingot', 'blue_skies:falsite_ingot', 'create:brass_ingot', 'tconstruct:manyullyn_ingot', 'immersiveengineering:ingot_constantan', 'create:copper_ingot', 'thermal:silver_ingot', 'minecraft:netherite_ingot', 'mysticalagriculture:soulium_ingot', 'minecraft:gold_ingot', 'minecraft:iron_ingot', 'mysticalagriculture:prosperity_ingot', 'immersiveengineering:ingot_hop_graphite', 'extendedcrafting:redstone_ingot', 'extendedcrafting:enhanced_ender_ingot', 'extendedcrafting:ender_ingot', 'tconstruct:pig_iron_ingot', 'thermal:constantan_ingot', 'thermal:invar_ingot', 'mysticalagradditions:insanium_ingot', 'mysticalagriculture:tertium_ingot', 'thermal:signalum_ingot', 'tconstruct:rose_gold_ingot', 'mysticalagriculture:prudentium_ingot', 'thermal:nickel_ingot', 'mysticalagriculture:supremium_ingot', 'tconstruct:cobalt_ingot', 'immersiveengineering:ingot_steel', 'immersiveengineering:ingot_electrum', 'mysticalagriculture:inferium_ingot', 'thermal:bronze_ingot', 'industrialforegoing:pink_slime_ingot', 'tconstruct:tinkers_bronze_ingot', 'thermal:lead_ingot', 'thermal:electrum_ingot'] -> ['50x extendedcrafting:the_ultimate_ingot']
+[21:54:32] [INFO] server_scripts:extendedCrafting.js:124: + minecraft:smithing: ['storagedrawers:emerald_storage_upgrade', 'mysticalagradditions:creative_essence'] -> ['storagedrawers:creative_storage_upgrade']
+[21:54:32] [INFO] server_scripts:extendedCrafting.js:127: + extendedcrafting:shaped_table: ['extendedcrafting:black_iron_block', 'mysticalagradditions:creative_essence', 'extendedcrafting:ultimate_singularity', 'refinedstorage:controller', 'extendedcrafting:the_ultimate_block'] -> ['refinedstorage:creative_controller']
+[21:54:32] [INFO] server_scripts:extendedCrafting.js:150: + extendedcrafting:shaped_table: ['extendedcrafting:black_iron_block', 'mysticalagradditions:creative_essence', 'extendedcrafting:ultimate_singularity', 'industrialforegoing:supreme_black_hole_tank', 'extendedcrafting:the_ultimate_block'] -> ['refinedstorage:creative_fluid_storage_block']
+[21:54:32] [INFO] server_scripts:extendedCrafting.js:173: + extendedcrafting:shaped_table: ['extendedcrafting:black_iron_block', 'mysticalagradditions:creative_essence', 'extendedcrafting:ultimate_singularity', 'industrialforegoing:supreme_black_hole_unit', 'extendedcrafting:the_ultimate_block'] -> ['refinedstorage:creative_storage_block']
+[21:54:32] [INFO] server_scripts:extendedCrafting.js:196: + extendedcrafting:shaped_table: ['mysticalagradditions:creative_essence', 'extendedcrafting:ultimate_singularity', 'industrialforegoing:supreme_black_hole_tank', 'extendedcrafting:the_ultimate_block', 'refinedstorage:creative_fluid_storage_block'] -> ['refinedstorage:creative_fluid_storage_disk']
+[21:54:32] [INFO] server_scripts:extendedCrafting.js:219: + extendedcrafting:shaped_table: ['mysticalagradditions:creative_essence', 'extendedcrafting:ultimate_singularity', 'industrialforegoing:supreme_black_hole_unit', 'extendedcrafting:the_ultimate_block', 'refinedstorage:creative_fluid_storage_block'] -> ['refinedstorage:creative_storage_disk']
+[21:54:32] [INFO] server_scripts:extendedCrafting.js:241: + extendedcrafting:shaped_table: ['mysticalagradditions:creative_essence', 'mysticalagradditions:insanium_block', 'mysticalagradditions:insanium_gemstone_block', 'mysticalagradditions:insanium_essence', 'mysticalagradditions:insanium_ingot_block'] -> ['mysticalagriculture:creative_soulium_dagger']
+[21:54:32] [INFO] server_scripts:extendedCrafting.js:263: + extendedcrafting:shaped_table: ['immersiveengineering:treated_wood_horizontal', 'extendedcrafting:the_ultimate_block', 'mysticalagradditions:creative_essence', 'extendedcrafting:black_iron_block', 'extendedcrafting:ultimate_singularity'] -> ['immersiveengineering:capacitor_creative']
+[21:54:32] [INFO] server_scripts:extendedCrafting.js:286: + extendedcrafting:shaped_table: ['create:shaft', 'extendedcrafting:the_ultimate_block', 'mysticalagradditions:creative_essence', 'extendedcrafting:black_iron_block', 'extendedcrafting:ultimate_singularity'] -> ['create:creative_motor']
+[21:54:32] [INFO] server_scripts:extendedCrafting.js:331: + extendedcrafting:shaped_table: ['industrialforegoing:supreme_black_hole_unit', 'extendedcrafting:the_ultimate_block', 'mysticalagradditions:creative_essence', 'extendedcrafting:ultimate_singularity', 'appliedenergistics2:creative_energy_cell'] -> ['appliedenergistics2:creative_storage_cell']
+[21:54:32] [INFO] server_scripts:extendedCrafting.js:309: + extendedcrafting:shaped_table: ['extendedcrafting:the_ultimate_block', 'mysticalagradditions:creative_essence', 'extendedcrafting:black_iron_block', 'extendedcrafting:ultimate_singularity'] -> ['appliedenergistics2:creative_energy_cell']
+[21:54:32] [INFO] server_scripts:extendedCrafting.js:354: + create:mixing: [] -> []
+[21:54:32] [INFO] server_scripts:extendedCrafting.js:378: + create:mixing: [] -> []
+[21:54:32] [INFO] server_scripts:extendedCrafting.js:428: + extendedcrafting:shapeless_table: ['upgradednetherite_creative:creative_upgraded_netherite_ingot', 'extendedcrafting:the_ultimate_ingot', 'pipez:infinity_upgrade', 'powah:energy_cell_creative', 'storagedrawers:creative_storage_upgrade', 'refinedstorage:creative_controller', 'refinedstorage:creative_fluid_storage_block', 'refinedstorage:creative_storage_block', 'refinedstorage:creative_fluid_storage_disk', 'refinedstorage:creative_storage_disk', 'mysticalagriculture:creative_soulium_dagger', 'mysticalagradditions:creative_essence', 'immersiveengineering:capacitor_creative', 'create:creative_motor', 'appliedenergistics2:creative_storage_cell', 'appliedenergistics2:creative_energy_cell'] -> ['storagedrawers:creative_vending_upgrade']
+[21:54:32] [INFO] server_scripts:script.js:116: - immersiveengineering:crafting/ingot_copper_to_storage_copper[minecraft:crafting_shaped]: ['#forge:ingots/copper', 'immersiveengineering:ingot_copper'] -> ['immersiveengineering:storage_copper']
+[21:54:32] [INFO] server_scripts:script.js:117: - thermal:storage/copper_block[minecraft:crafting_shaped]: ['thermal:copper_ingot', '#forge:ingots/copper'] -> ['thermal:copper_block']
+[21:54:32] [INFO] server_scripts:script.js:118: - tconstruct:common/materials/copper_block_from_ingots[minecraft:crafting_shaped]: ['#forge:ingots/copper', 'tconstruct:copper_ingot'] -> ['tconstruct:copper_block']
+[21:54:32] [INFO] server_scripts:script.js:119: - create:crafting/materials/copper_block_from_compacting[minecraft:crafting_shaped]: ['#forge:ingots/copper'] -> ['create:copper_block']
+[21:54:32] [INFO] server_scripts:script.js:120: - immersiveengineering:arcfurnace/dust_copper[immersiveengineering:arc_furnace]: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:123: + minecraft:smelting: ['exnihilosequentia:chunk_copper'] -> ['thermal:copper_ingot']
+[21:54:32] [INFO] server_scripts:script.js:10: - create:crushing/copper_ore[create:crushing]: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:10: - immersiveengineering:crafting/ingot_copper[minecraft:smelting]: ['immersiveengineering:ore_copper'] -> ['immersiveengineering:ingot_copper']
+[21:54:32] [INFO] server_scripts:script.js:10: - create:blasting/copper_ingot_from_ore[minecraft:blasting]: ['#forge:ores/copper'] -> ['create:copper_ingot']
+[21:54:32] [INFO] server_scripts:script.js:10: - thermal:smelting/copper_ingot_from_ore_blasting[minecraft:blasting]: ['thermal:copper_ore'] -> ['thermal:copper_ingot']
+[21:54:32] [INFO] server_scripts:script.js:10: - tconstruct:smeltery/melting/metal/copper/ore[tconstruct:ore_melting]: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:10: - exnihilosequentia:ens_ingot_copper_blast[minecraft:blasting]: ['exnihilosequentia:chunk_copper'] -> ['exnihilosequentia:ingot_copper']
+[21:54:32] [INFO] server_scripts:script.js:10: - tconstruct:common/materials/copper_ingot_blasting[minecraft:blasting]: ['tconstruct:copper_ore'] -> ['tconstruct:copper_ingot']
+[21:54:32] [INFO] server_scripts:script.js:10: - immersiveengineering:crafting/ingot_copper_from_blasting[minecraft:blasting]: ['immersiveengineering:ore_copper'] -> ['immersiveengineering:ingot_copper']
+[21:54:32] [INFO] server_scripts:script.js:10: - thermal:smelting/copper_ingot_from_ore_smelting[minecraft:smelting]: ['thermal:copper_ore'] -> ['thermal:copper_ingot']
+[21:54:32] [INFO] server_scripts:script.js:10: - create:milling/copper_ore[create:milling]: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:10: - exnihilosequentia:ens_ingot_copper[minecraft:smelting]: ['exnihilosequentia:chunk_copper'] -> ['exnihilosequentia:ingot_copper']
+[21:54:32] [INFO] server_scripts:script.js:10: - create:smelting/copper_ingot_from_ore[minecraft:smelting]: ['#forge:ores/copper'] -> ['create:copper_ingot']
+[21:54:32] [INFO] server_scripts:script.js:10: - tconstruct:common/materials/copper_ingot_smelting[minecraft:smelting]: ['tconstruct:copper_ore'] -> ['tconstruct:copper_ingot']
+[21:54:32] [INFO] server_scripts:script.js:10: - immersiveengineering:crafting/hammercrushing_copper[immersiveengineering:hammer_crushing]: ['#forge:ores/copper'] -> ['thermal:copper_dust']
+[21:54:32] [INFO] server_scripts:script.js:12: - immersiveengineering:arcfurnace/ore_copper[immersiveengineering:arc_furnace]: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:15: - immersiveengineering:crusher/ore_copper[immersiveengineering:crusher]: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:18: - thermal:machine/pulverizer/pulverizer_copper_ore[thermal:pulverizer]: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:21: - thermal:machine/smelter/smelter_copper_ore[thermal:smelter]: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:26: + minecraft:smelting: ['thermal:copper_ore'] -> ['create:copper_ingot']
+[21:54:32] [INFO] server_scripts:script.js:29: + minecraft:blasting: ['thermal:copper_ore'] -> ['create:copper_ingot']
+[21:54:32] [INFO] server_scripts:script.js:32: + create:crushing: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:72: + thermal:pulverizer: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:95: + tconstruct:ore_melting: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:49: + thermal:smelter: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:129: - immersiveengineering:crafting/ingot_lead_to_storage_lead[minecraft:crafting_shaped]: ['#forge:ingots/lead', 'immersiveengineering:ingot_lead'] -> ['immersiveengineering:storage_lead']
+[21:54:32] [INFO] server_scripts:script.js:130: - thermal:storage/lead_block[minecraft:crafting_shaped]: ['thermal:lead_ingot', '#forge:ingots/lead'] -> ['thermal:lead_block']
+[21:54:32] [INFO] server_scripts:script.js:131: + kubejs:shapeless: ['minecraft:stone', '#forge:dusts/glowstone'] -> ['4x minecraft:cobblestone']
+[21:54:32] [INFO] server_scripts:script.js:134: + minecraft:smelting: ['exnihilosequentia:chunk_lead'] -> ['thermal:lead_ingot']
+[21:54:32] [INFO] server_scripts:script.js:10: - create:milling/lead_ore[create:milling]: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:10: - immersiveengineering:crafting/ingot_lead_from_blasting[minecraft:blasting]: ['immersiveengineering:ore_lead'] -> ['immersiveengineering:ingot_lead']
+[21:54:32] [INFO] server_scripts:script.js:10: - exnihilosequentia:ens_ingot_lead[minecraft:smelting]: ['exnihilosequentia:chunk_lead'] -> ['exnihilosequentia:ingot_lead']
+[21:54:32] [INFO] server_scripts:script.js:10: - thermal:smelting/lead_ingot_from_ore_smelting[minecraft:smelting]: ['thermal:lead_ore'] -> ['thermal:lead_ingot']
+[21:54:32] [INFO] server_scripts:script.js:10: - exnihilosequentia:ens_ingot_lead_blast[minecraft:blasting]: ['exnihilosequentia:chunk_lead'] -> ['exnihilosequentia:ingot_lead']
+[21:54:32] [INFO] server_scripts:script.js:10: - immersiveengineering:crafting/ingot_lead[minecraft:smelting]: ['immersiveengineering:ore_lead'] -> ['immersiveengineering:ingot_lead']
+[21:54:32] [INFO] server_scripts:script.js:10: - immersiveengineering:crafting/hammercrushing_lead[immersiveengineering:hammer_crushing]: ['#forge:ores/lead'] -> ['thermal:lead_dust']
+[21:54:32] [INFO] server_scripts:script.js:10: - create:crushing/lead_ore[create:crushing]: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:10: - tconstruct:smeltery/melting/metal/lead/ore[tconstruct:ore_melting]: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:10: - thermal:smelting/lead_ingot_from_ore_blasting[minecraft:blasting]: ['thermal:lead_ore'] -> ['thermal:lead_ingot']
+[21:54:32] [INFO] server_scripts:script.js:12: - immersiveengineering:arcfurnace/ore_lead[immersiveengineering:arc_furnace]: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:15: - immersiveengineering:crusher/ore_lead[immersiveengineering:crusher]: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:18: - thermal:machine/pulverizer/pulverizer_lead_ore[thermal:pulverizer]: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:21: - thermal:machine/smelter/smelter_lead_ore[thermal:smelter]: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:26: + minecraft:smelting: ['thermal:lead_ore'] -> ['thermal:lead_ingot']
+[21:54:32] [INFO] server_scripts:script.js:29: + minecraft:blasting: ['thermal:lead_ore'] -> ['thermal:lead_ingot']
+[21:54:32] [INFO] server_scripts:script.js:32: + create:crushing: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:49: + thermal:smelter: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:72: + thermal:pulverizer: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:95: + tconstruct:ore_melting: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:138: + kubejs:shapeless: ['9x create:copper_ingot'] -> ['thermal:copper_block']
+[21:54:32] [INFO] server_scripts:script.js:140: - immersiveengineering:crafting/ingot_silver_to_storage_silver[minecraft:crafting_shaped]: ['#forge:ingots/silver', 'immersiveengineering:ingot_silver'] -> ['immersiveengineering:storage_silver']
+[21:54:32] [INFO] server_scripts:script.js:141: - thermal:storage/silver_block[minecraft:crafting_shaped]: ['thermal:silver_ingot', '#forge:ingots/silver'] -> ['thermal:silver_block']
+[21:54:32] [INFO] server_scripts:script.js:144: + minecraft:smelting: ['exnihilosequentia:chunk_silver'] -> ['thermal:silver_ingot']
+[21:54:32] [INFO] server_scripts:script.js:26: + minecraft:smelting: ['thermal:silver_ore'] -> ['thermal:silver_ingot']
+[21:54:32] [INFO] server_scripts:script.js:32: + create:crushing: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:29: + minecraft:blasting: ['thermal:silver_ore'] -> ['thermal:silver_ingot']
+[21:54:32] [INFO] server_scripts:script.js:49: + thermal:smelter: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:72: + thermal:pulverizer: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:95: + tconstruct:ore_melting: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:148: - immersiveengineering:crafting/ingot_nickel_to_storage_nickel[minecraft:crafting_shaped]: ['#forge:ingots/nickel', 'immersiveengineering:ingot_nickel'] -> ['immersiveengineering:storage_nickel']
+[21:54:32] [INFO] server_scripts:script.js:149: - thermal:storage/nickel_block[minecraft:crafting_shaped]: ['thermal:nickel_ingot', '#forge:ingots/nickel'] -> ['thermal:nickel_block']
+[21:54:32] [INFO] server_scripts:script.js:153: + minecraft:smelting: ['exnihilosequentia:chunk_nickel'] -> ['thermal:nickel_ingot']
+[21:54:32] [INFO] server_scripts:script.js:26: + minecraft:smelting: ['thermal:nickel_ore'] -> ['thermal:nickel_ingot']
+[21:54:32] [INFO] server_scripts:script.js:29: + minecraft:blasting: ['thermal:nickel_ore'] -> ['thermal:nickel_ingot']
+[21:54:32] [INFO] server_scripts:script.js:32: + create:crushing: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:95: + tconstruct:ore_melting: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:49: + thermal:smelter: [] -> []
+[21:54:32] [INFO] server_scripts:script.js:72: + thermal:pulverizer: [] -> []
+[21:54:32] [INFO] Posted recipe events in 148.8 ms
+[21:54:32] [WARN] Error parsing recipe immersivepetroleum:hydrotreater/sulfur_recovery[immersivepetroleum:hydrotreater]: {"type":"immersivepetroleum:hydrotreater","time":1,"energy":512,"result":{"fluid":"immersivepetroleum:diesel","amount":7},"input":{"tag":"forge:diesel_sulfur","amount":7},"secondary_input":{"tag":"minecraft:water","amount":7},"secondary_result":{"item":"immersiveengineering:dust_sulfur"}}: java.lang.IllegalArgumentException: Unexpected json object.
+[21:54:32] [WARN] Error parsing recipe immersivepetroleum:distillationtower/oilcracking[immersivepetroleum:distillation]: {"type":"immersivepetroleum:distillation","byproducts":[{"item":"immersivepetroleum:bitumen"}],"results":[{"fluid":"immersivepetroleum:lubricant","amount":9},{"fluid":"immersivepetroleum:diesel_sulfur","amount":14},{"fluid":"immersivepetroleum:gasoline","amount":39}],"input":{"tag":"forge:crude_oil","amount":75},"time":1,"energy":2048}: java.lang.IllegalArgumentException: Unexpected json object.
+[21:54:32] [INFO] Modified & removed recipes in 115.1 ms
+[21:54:32] [WARN] Error creating recipe kubejs:kjs_3oxycw4j7yjdhaozc8cwcpfml[kubejs:shapeless]: {"type":"kubejs:shapeless","ingredients":[{"item":"upgradednetherite:poison_upgraded_netherite_ingot"},{"item":"upgradednetherite:phantom_upgraded_netherite_ingot"},{"item":"upgradednetherite:feather_upgraded_netherite_ingot"},{"item":"upgradednetherite:corrupt_upgraded_netherite_ingot"},{"item":"upgradednetherite:gold_upgraded_netherite_ingot"},{"item":"upgradednetherite:fire_upgraded_netherite_ingot"},{"item":"upgradednetherite:ender_upgraded_netherite_ingot"},{"item":"upgradednetherite:water_upgraded_netherite_ingot"},{"item":"upgradednetherite:wither_upgraded_netherite_ingot"},{"item":"mysticalagradditions:creative_essence"}],"result":{"item":"upgradednetherite_creative:creative_upgraded_netherite_ingot","count":1}}: com.google.gson.JsonParseException: Too many ingredients for shapeless recipe
+[21:54:32] [INFO] Added recipes in 1.466 ms
+[21:54:32] [INFO] Added 56 recipes, removed 43 recipes, modified 0 recipes, with 3 failed recipes and 20 fall-backed recipes
+[21:54:34] [INFO] [functions] Found 0 tags, added 0 objects, removed 0 objects
