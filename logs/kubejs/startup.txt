@@ -1,0 +1,5 @@
+[16:26:35] [INFO] Loaded script startup_scripts:fluids.js in 0.002 s
+[16:26:35] [INFO] Hello, World! (You will only see this line once in console, during startup)
+[16:26:35] [INFO] Loaded script startup_scripts:script.js in 0.001 s
+[16:26:35] [INFO] Loaded script startup_scripts:worldgen.js in 0.0 s
+[16:26:35] [INFO] Loaded 3/3 KubeJS startup scripts in 0.008 s

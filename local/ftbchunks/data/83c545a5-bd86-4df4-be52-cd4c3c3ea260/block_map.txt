@@ -36,6 +36,7 @@
 #7482E4 minecraft:lilac
 #746434 create:limestone
 #0BFFE0 chisel:marble/raw
+#EF10B6 kubejs:molten_creative_essence
 #A4FC4B minecraft:mossy_cobblestone
 #EA8C04 minecraft:mossy_cobblestone_stairs
 #F0D99D minecraft:mossy_stone_brick_stairs
@@ -60,6 +61,7 @@
 #78AF47 minecraft:red_mushroom_block
 #B63FD4 minecraft:red_nether_brick_stairs
 #C856DE minecraft:red_nether_bricks
+#24BE64 minecraft:redstone_torch
 #721B63 minecraft:redstone_wire
 #9C3ECB minecraft:rose_bush
 #615192 tconstruct:sky_congealed_slime

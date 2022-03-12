@@ -20,6 +20,7 @@ onEvent('jei.hide.items', event => {
 		'create:copper_block', 
 		'create:copper_shingles', 
 		'create:copper_tiles',
+		'exnihilosequentia:ingot_copper',
 		//lead
 		'immersiveengineering:dust_lead', 
 		'immersiveengineering:plate_lead', 
@@ -27,6 +28,7 @@ onEvent('jei.hide.items', event => {
 		'immersiveengineering:nugget_lead', 
 		'immersiveengineering:storage_lead', 
 		'immersiveengineering:ore_lead',
+		'exnihilosequentia:ingot_lead',
 		//nickel
 		'immersiveengineering:ingot_nickel', 
 		'immersiveengineering:nugget_nickel', 
@@ -34,6 +36,7 @@ onEvent('jei.hide.items', event => {
 		'immersiveengineering:dust_nickel', 
 		'immersiveengineering:plate_nickel', 
 		'immersiveengineering:ore_nickel',
+		'exnihilosequentia:ingot_nickel',
 		//silver
 		'immersiveengineering:dust_silver', 
 		'immersiveengineering:ingot_silver', 
@@ -41,6 +44,7 @@ onEvent('jei.hide.items', event => {
 		'immersiveengineering:storage_silver', 
 		'immersiveengineering:plate_silver', 
 		'immersiveengineering:ore_silver',
+		'exnihilosequentia:ingot_silver',
 		/appliedenergistics2:facade/
 	])
 

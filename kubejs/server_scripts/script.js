@@ -118,7 +118,9 @@ onEvent('recipes', event => {
 	event.remove({id: 'tconstruct:common/materials/copper_block_from_ingots'})
 	event.remove({id: 'create:crafting/materials/copper_block_from_compacting'})
 	event.remove({id: 'immersiveengineering:arcfurnace/dust_copper'})
+	event.remove({id: 'exnihilosequentia:ingot_copper'})
 
+	event.smelting('thermal:copper_ingot','exnihilosequentia:chunk_copper')
 	multiRemove("copper",true,true,true,true)
 	multiAdd(['thermal:copper_ore', 'copper'],['create:copper_ingot','gold'],true,true,true,true,true,true)
 	
@@ -126,7 +128,10 @@ onEvent('recipes', event => {
 	//lead
 	event.remove({id: 'immersiveengineering:crafting/ingot_lead_to_storage_lead'})
 	event.remove({id: 'thermal:storage/lead_block'})
+	event.shapeless('4x minecraft:cobblestone', ['minecraft:stone', '#forge:dusts/glowstone'])
+	event.remove({id: 'exnihilosequentia:ingot_lead'})
 
+	event.smelting('thermal:lead_ingot', 'exnihilosequentia:chunk_lead')
 	multiRemove("lead",true,true,true,true)
 	multiAdd(['thermal:lead_ore', 'lead'],['thermal:lead_ingot','silver'],true,true,true,true,true,true)
 
@@ -134,13 +139,18 @@ onEvent('recipes', event => {
 	//silver
 	event.remove({id: 'immersiveengineering:crafting/ingot_silver_to_storage_silver'})
 	event.remove({id: 'thermal:storage/silver_block'})
+	event.remove({id: 'exnihilosequentia:ingot_silver'})
 
+	event.smelting('thermal:silver_ingot', 'exnihilosequentia:chunk_silver')
 	multiRemove("lead",true,true,true,true)
 	multiAdd(['thermal:silver_ore', 'silver'],['thermal:silver_ingot','lead'],true,true,true,true,true,true)
 	//nickel
 	event.remove({id: 'immersiveengineering:crafting/ingot_nickel_to_storage_nickel'})
 	event.remove({id: 'thermal:storage/nickel_block'})
+	event.remove({id: 'exnihilosequentia:ingot_nickel'})
 
+
+	event.smelting('thermal:nickel_ingot', 'exnihilosequentia:chunk_nickel')
 	multiRemove("lead",true,true,true,true)
 	multiAdd(['thermal:nickel_ore', 'nickel'],['thermal:nickel_ingot','iron'],true,true,true,true,true,true)
 })

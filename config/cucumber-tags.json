@@ -26,7 +26,7 @@
   "forge:ingots/enderium": "thermal:enderium_ingot",
   "forge:ingots/titanium": "null",
   "forge:rubber": "null",
-  "forge:ingots/platinum": "null",
+  "forge:ingots/platinum": "exnihilosequentia:ingot_platinum",
   "forge:dusts/sulfur": "thermal:sulfur_dust",
   "forge:ingots/lead": "thermal:lead_ingot",
   "forge:ingots/graphite": "null",

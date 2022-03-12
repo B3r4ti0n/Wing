@@ -11144,3 +11144,223 @@
 			Armor_Enchantability = 12
 			Set_Effects = []
 
+	[Armor_Sets.excompressum]
+
+		[Armor_Sets.excompressum.compressed_andesite]
+			Enabled = true
+			Armor_Durability = 12
+			Armor_Damage_Reduction = 1.5600000619888306
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.excompressum.compressed_cobblestone]
+			Enabled = true
+			Armor_Durability = 12
+			Armor_Damage_Reduction = 1.5600000619888306
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Rocky"]
+
+		[Armor_Sets.excompressum.compressed_crushed_andesite]
+			Enabled = true
+			Armor_Durability = 12
+			Armor_Damage_Reduction = 1.5600000619888306
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.excompressum.compressed_crushed_diorite]
+			Enabled = true
+			Armor_Durability = 12
+			Armor_Damage_Reduction = 1.5600000619888306
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.excompressum.compressed_crushed_granite]
+			Enabled = true
+			Armor_Durability = 12
+			Armor_Damage_Reduction = 1.5600000619888306
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.excompressum.compressed_diorite]
+			Enabled = true
+			Armor_Durability = 12
+			Armor_Damage_Reduction = 1.5600000619888306
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.excompressum.compressed_dirt]
+			Enabled = true
+			Armor_Durability = 12
+			Armor_Damage_Reduction = 1.5600000619888306
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.excompressum.compressed_dust]
+			Enabled = true
+			Armor_Durability = 12
+			Armor_Damage_Reduction = 1.5600000619888306
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.excompressum.compressed_end_stone]
+			Enabled = true
+			Armor_Durability = 12
+			Armor_Damage_Reduction = 1.5600000619888306
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Ender", "Rocky"]
+
+		[Armor_Sets.excompressum.compressed_ender_gravel]
+			Enabled = true
+			Armor_Durability = 12
+			Armor_Damage_Reduction = 1.5600000619888306
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Ender"]
+
+		[Armor_Sets.excompressum.compressed_flint]
+			Enabled = true
+			Armor_Durability = 12
+			Armor_Damage_Reduction = 1.5600000619888306
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.excompressum.compressed_granite]
+			Enabled = true
+			Armor_Durability = 12
+			Armor_Damage_Reduction = 1.5600000619888306
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.excompressum.compressed_gravel]
+			Enabled = true
+			Armor_Durability = 12
+			Armor_Damage_Reduction = 1.5600000619888306
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.excompressum.compressed_nether_gravel]
+			Enabled = true
+			Armor_Durability = 12
+			Armor_Damage_Reduction = 1.5600000619888306
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.excompressum.compressed_netherrack]
+			Enabled = true
+			Armor_Durability = 12
+			Armor_Damage_Reduction = 1.5600000619888306
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Fiery"]
+
+		[Armor_Sets.excompressum.compressed_sand]
+			Enabled = true
+			Armor_Durability = 12
+			Armor_Damage_Reduction = 1.5600000619888306
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = []
+
+		[Armor_Sets.excompressum.compressed_soul_sand]
+			Enabled = true
+			Armor_Durability = 12
+			Armor_Damage_Reduction = 1.5600000619888306
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Slow Motion"]
+
+	[Armor_Sets.exnihilosequentia]
+
+		[Armor_Sets.exnihilosequentia.crucible_unfired]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Fiery", "Flame Resistant", "AutoSmelt"]
+
+		[Armor_Sets.exnihilosequentia.crushed_andesite]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Falling"]
+
+		[Armor_Sets.exnihilosequentia.crushed_diorite]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Falling"]
+
+		[Armor_Sets.exnihilosequentia.crushed_end_stone]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Ender", "Falling", "Rocky"]
+
+		[Armor_Sets.exnihilosequentia.crushed_granite]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Falling"]
+
+		[Armor_Sets.exnihilosequentia.crushed_netherrack]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Fiery", "Falling"]
+
+		[Armor_Sets.exnihilosequentia.dust]
+			Enabled = true
+			Armor_Durability = 8
+			Armor_Damage_Reduction = 1.0
+			Armor_Toughness = 0.0
+			Armor_Knockback_Resistance = 0
+			Armor_Enchantability = 12
+			Set_Effects = ["Falling"]
+
